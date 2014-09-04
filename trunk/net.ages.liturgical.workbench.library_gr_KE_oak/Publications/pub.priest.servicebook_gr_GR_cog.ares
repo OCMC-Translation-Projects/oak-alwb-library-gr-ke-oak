@@ -68,8 +68,31 @@ Baptism.CommunionAndCross = ""
 Baptism.Admonitions = ""
 Baptism.KissHand = ""
 
+// Wedding.Rubrics
+Wed.Vows = ""
+Wed.Lit01 = ""
+Wed.RingsGroom = ""
+Wed.RingsBride = ""
+Wed.RingsOn = ""
+Wed.Ps127.Ps128 = ""
+Wed.Lit02 = ""
+Wed.CrownsGroom = ""
+Wed.CrownsBride = ""
+Wed.CrownsOn = ""
+Wed.CrownsChange = ""
+Wed.CupChant = ""
+Wed.Roundtable = ""
+Wed.Prayer4Both = ""
+
+
+
 // Decorators
 Asterisks = "*******************************************"
 // Titles
 enarxis.title = "ΕΝΑΡΞΙΣ"
 dismissal.title = ""
+readings.title = ""
+cup.title = ""
+crowns.take.title = ""
+bless.both.title = ""
+
