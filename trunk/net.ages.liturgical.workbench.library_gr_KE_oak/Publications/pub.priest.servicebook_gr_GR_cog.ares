@@ -86,18 +86,26 @@ Wed.Roundtable = ""
 Wed.Prayer4Both = ""
 
 // Rubrical Funeral
-
-
+Rub.Fun.ArrivalAtChurch = ""
+Fun.TonePlagIV = ""
+Fun.PriestCensing = ""
+Fun.ReaderAndPeopleChant = ""
 
 // Decorators
 Asterisks = "*******************************************"
 // Titles
 enarxis.title = "ΕΝΑΡΞΙΣ"
 dismissal.title = ""
+
+//Wedding titles
 readings.title = ""
 cup.title = ""
 crowns.take.title = ""
 bless.both.title = ""
+
+//Funeral tiles
+fun.title = ""
+fun.stasis01.title = ""
 
 // Divine Liturgy Preparation
 li.preparation.title = "ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΠΡΟΣΚΟΜΙΔΗΣ"
