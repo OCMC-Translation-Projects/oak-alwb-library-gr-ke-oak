@@ -84,6 +84,7 @@ Wed.CrownsChange = ""
 Wed.CupChant = ""
 Wed.Roundtable = ""
 Wed.Prayer4Both = ""
+Wed.RemoveCrowns = ""
 
 // Rubrical Funeral
 Rub.Fun.ArrivalAtChurch = ""
