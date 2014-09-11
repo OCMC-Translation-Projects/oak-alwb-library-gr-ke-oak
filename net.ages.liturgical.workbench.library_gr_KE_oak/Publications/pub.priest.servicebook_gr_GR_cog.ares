@@ -212,7 +212,7 @@ li.rubric.revertlamb = "Καὶ στρέφει τὸ ἕτερον μέρος �
 li.rubric.pierce2 = "Νύττων δὲ ὁ Ἱερεὺς μετὰ τῆς λόγχης ἐν τῷ δεξιῷ μέρει τοῦ ἄρτου, ἀμέσως ὑπὸ τὸ ὄνομα ΙΣ, ἐπιλέγει·"
 li.rubric.mixchalice = "Ὁ δὲ Διάκονος ἐγχέει τῷ ἁγίῳ ποτηρίῳ ἐκ τοῦ νάματος ὁμοῦ καὶ τοῦ ὕδατος τὸ ἀρκοῦν, εἰπῶν πρότερον·"
 li.rubric.blesswinewater = "Καὶ εὐλογεῖ αὐτὰ ὁ Ἱερεύς, λέγων·"
-li.rubric.coverchalice = "Καί, τοῦ Διακόνου θυμιῶντος τὸ δεύτερον κάλυμμα, ὁ Ἱερεύς σκεπάζει τὸ ἅγιον ποτήριον λέγων·"
+li.rubric.coverchalice = "Καὶ καλύπτει τοῦτο πρὸς στιγμὴν δι’ ἑνὸς καλύμματος."
 li.rubric.anotherprosfora = "Καὶ λαβὼν ὁ Ἱερεὺς ἐτέραν προσφοράν, λέγει·"
 li.rubric.theotokosparticle = "Καί, αἴρων τὴν μερίδα τῆς Θεοτόκου, τίθησιν αὐτήν ἐν τῷ δεξιῳ μέρει τοῦ ἁγίου ἄρτου, πλησίον τῆς μέσης αὐτοῦ, λέγων·"
 li.rubric.saintparticles = "Εἶτα, λαβὼν τὴν ἰδίαν ἢ τρίτην προσφοράν, αἴρει ἐξ αὐτῆς ἐννέα μερίδας καὶ τίθησιν αὐτὰς ἐν τῷ ἀριστερῷ μέρει τοῦ ἁγίου ἄρτου, ἤγουν τῷ τῇ δεξιᾲ χειρὶ τοῦ Ἱερέως ὄντι, εἰς τρεῖς τάξεις ἀνὰ τρεῖς μερίδας."
@@ -251,7 +251,32 @@ li.rubric.bowthrice = "Εἶτα, προσκυνοῦντες ἀμφότερο�
 li.rubric.kairos = "Καὶ ὁ Διάκονος, ὑποκλίνας τὴν κεφαλὴν λέγει τῷ Ἱερεῖ·"
 li.rubric.blessdeacon = "Ὁ δὲ Ἱερεύς, ἐπιθεὶς τὴν δεξιὰν χεῖρα ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ σφραγίζων αὐτόν, λέγει·"
 li.rubric.venerate = "Εἶτα ἀσπάζονται ὁ μὲν Ἱερεὺς τὸ Εὐαγγέλιον, ὁ δὲ Διά­κονος τὴν ἁγίαν Τράπεζαν καὶ τὴν τοῦ Ἱερέως χεῖρα., καὶ ἐξελθὼν τοῦ Βήματος ἵσταται ἐνώπιον ταῆς Ὡραίας Πύλης καὶ ἐκφωνεῖ·"
-li.rubric.liturgybegins = "Καὶ ἄρχεται ἡ θεία Λειτουργία." // edited to remove invisible n-dash
+li.rubric.liturgybegins = "Καὶ ἄρχεται ἡ θεία Λειτουργία." //edited to remove invisible n-dash
+li.rubric.ifsunday = "Ὁ β’ χορὸς ἀναστάσιμον τροπάριον."
+li.rubric.firstmodes = "Εἰς μὲν τοὐς ἤχους α’, β’, γ’ καἰ δ’ τὀ παρόν."
+li.rubric.altmodes = "Εἰς δἐ τοὐς ἤχους πλ. α’, πλ. β’, βαρὐν καἰ πλ. δ’ τὀ παρόν."
+
+// Divine Liturgy Titles
+li.liturgy.title = "Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
+li.liturgycatechumens.title = "Η ΛΕΙΤΟΥΡΓΙΑ ΤΩΝ ΚΑΤΗΧΟΥΜΕΝΩΝ"
+li.litanypeace.title = "ΤΑ ΕΙΡΗΝΙΚΑ"
+li.prayerantifon1.title = "ΕΥΧΗ ΤΟΥ ΠΡΩΤΟΥ ΑΝΤΙΦΩΝΟΥ"
+li.antifon1.title = "ΤΟ ΠΡΩΤΟΝ ΑΝΤΙΦΩΝΟΝ"
+
+//Divine Liturgy Rubrics
+li.rubric.eachpetition = "Μετὰ πᾶσαν δέησιν."
+li.rubric.iffeast = "Εἰ μὲν ἐστι Δεσποτικὴ ἢ Θεομητορικὴ ἑορτή, ἢ μεθέορτα, ἢ ἀπόδοσις αὐτῆς, ψάλλονται τὰ Ἀντίφωνα αὐτῆς· εἰ δὲ μή, τὰ Τυπικά."
+li.rubric.sundayantifon1 = "Ἐν δὲ ταῖς Κυριακαῖς νῦν ψάλλεται συνήθως τὸ παρόν·"
+li.rubric.verseantifon1 = "Ἦχος β’. Ψαλμὸς ρβ’ (102)"
+li.rubric.verse1 = "Στιχ. α’"
+li.rubric.a1v1attribution = "(ρβ’ 1)"
+li.rubric.verse2 = "Στιχ. β’"
+li.rubric.a1v2attribution = "(ρβ’ 2)"
+li.rubric.verse3 = "Στιχ. γ’"
+li.rubric.a1v3attribution = "(ρβ’ 19)"
+li.rubric.verse4 = "Στίχ. δ’"
+li.rubric.a1v4attribution = "(ρβ’ 22)"
+
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"
 psb.pdf.header = "Μικρὸν Ευχολογιον Αγιασμα Ταριον."
