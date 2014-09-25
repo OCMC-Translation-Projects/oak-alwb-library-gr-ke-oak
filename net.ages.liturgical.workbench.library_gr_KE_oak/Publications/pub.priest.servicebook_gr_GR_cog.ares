@@ -426,6 +426,20 @@ li.alleluia = "Ἀλληλούϊα."
 li.pliroma = "Πλήρωμα Πνεύματος Ἁγίου."
 li.zesis = "Ζέσις Πνεύματος ἁγίου. Ἀμήν."
 
+// Preparation for Communion
+li.prepcommunion.title = "ΕΥΧΑΙ ΤΗΣ ΜΕΤΑΛΗΨΕΩΣ"
+
+li.rubric.seepage = "Τὰς Εὐχὰς τῆς θείας Κοινωνίας βλ. σελ. #"
+li.rubric.beforeapproach = "Ἀπερχόμενος δὲ μεταλαβεῖν, λέγε τοὺς παρόντας στίχους·"
+li.rubric.eita = "Εἶτα"
+li.rubric.andtheverses = "Καὶ τοὺς Στίχους τούτους·"
+li.rubric.andtroparia = "Καὶ τὰ Τροπάρια ταῦτα·"
+li.rubric.ofkosmas = "Κοσμᾶ τοῦ Μελῳδοῦ."
+li.rubric.followingprayer = "Καὶ τὴν παροῦσαν Εὐχήν·"
+li.rubric.andagain = "Καὶ πάλιν·"
+
+li.vadizou = "Ἰδοὺ βαδίζω πρὸς θείαν Κοινωνίαν <br> Πλαστουργέ, μὴ φλέξῃς με τῇ μετουσίᾳ, <br> Πῦρ γὰρ ὑπάρχεις τοὺς ἀναξίους φλέγον· <br>  Ἀλλ’ οὖν κάθαρον ἐκ πάσης με κηλῖδος."
+
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"
 psb.pdf.header = "Μικρὸν Ευχολογιον Αγιασμα Ταριον."
