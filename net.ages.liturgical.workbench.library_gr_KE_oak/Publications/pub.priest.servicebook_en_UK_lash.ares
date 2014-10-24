@@ -484,3 +484,118 @@ li.rubric.entrancechant = "The People sing the Entrance Chant as follows:"
 li.rubric.kissofpeace2 = "to which the junior answers:"
 li.rubric.blesschalice = "The Priest blesses the Chalice, saying:"
 li.rubric.blessboth = "Then he, pointing to them both, says:"
+li.lordsname = "In the name of the Lord."
+li.thankgsiving.title = "THANKSGIVING AFTER HOLY COMMUNION"
+li.rubric.admonition = "Verses of Admonition."
+li.havingreceived = "Whenever you have had Communion
+Of the life-giving and transcendent gifts,
+At once give praise and offer heartfelt thanks, And from your soul say fervently to God: Glory to you, O God. Glory to you, O God. Glory to you, O God."
+li.rubric.thanksgivingprayers = "
+And immediately the prayers of thanksgiving."
+li.rubric.anonymous = "Anonymous."
+li.thanksivingprayer1 = "I thank you, Lord, my God, because you have not rejected me a sinner, but have counted me worthy to be a communicant of your Holy Things.
+I thank you, because you have counted me, the unworthy, worthy to share in your most pure and heavenly gifts. But, Master, Lover of mankind, who died for our sake
+and rose again, and gave us these your awe-inspiring and life-giving Mysteries, for the well-being and hallowing of our souls and bodies, grant that these gifts may bring me also healing of soul and body, the repelling of every adversary, the enlightenment of the eyes of my heart, peace of my spiritual powers, faith unashamed, love without pretence, fullness of wisdom, the keeping of your commandments, increase of your divine grace and the gaining of your Kingdom; that preserved through them by your sanctification, I may always remember your grace, and no longer live for myself but for you, our Master and Benefactor. And so, when I leave this present life in the hope of life eternal, I shall find everlasting repose where the sound of those who feast is unceasing, and the delight of those who see the ineffable beauty of your face is unbounded. For you are the true desire and the inexpressible joy of those who love you, Christ our God, and all creation hymns you to the ages. Amen."
+li.rubric.basilgreat = "By Saint Basil the Great."
+li.thanksgivingprayer2 = "Master, Christ God, King of the ages, and Creator of all things, I thank you for all the good things you have given me, and for Communion in your most pure and life-giving mysteries Therefore I pray you, O Good One, Lover of mankind: guard me under your protection and in the shadow of your wings; and grant that until my last breath I may share worthily and with a pure conscience in your holy things for forgiveness of sins and everlasting life. For you are the Bread of life, the source of sanctification, the giver of blessings; and to you we give glory, with the Father and the Holy Spirit, now and for ever, and to the ages of ages. Amen."
+li.rubric.symeonmetaphrastes = "By Symeon Metaphrastes."
+li.thanksgivingprayer3 = "You who willingly give me your flesh for food, Who are a fire consuming the unworthy;
+Do not burn me up, my Maker;
+But penetrate the structure of my limbs,
+All my joints, my inner parts, my heart.
+Burn up the thorns of all my offences,
+Purify my soul and sanctify my mind. Strengthen my knees, together with my bones; Enlighten the five-fold simpleness of my senses; Nail down the whole of me with fear of you.
+Always protect, guard and keep me
+From every soul-destroying deed and word.
+Hallow me, purify me, bring me to harmony,
+And give me beauty, understanding, light;
+Show me to be your dwelling, the Spirit’s house alone, And no more the dwelling place of sin;
+That, by the entrance of Communion, Every evil-doer, every passion
+May flee from me, your house, as from a fire.
+As intercessors I bring you all the Saints,
+The companies of the Bodiless Hosts,
+Your Forerunner, the wise Apostles,
+And with them your most pure and holy Mother; Accept their prayers, O my compassionate Christ, And make your servant a child of light.
+For you alone are the hallowing of our souls, O Good One, and their brightness,
+And fittingly to you, as to our God and Master, We all give praise and glory every day."
+li.thanksgivingprayer4 = "May your holy Body, Lord Jesus Christ, our God, bring me eternal life, and your precious Blood forgiveness of sins. May this Eucharist bring me joy, health and gladness; and at your dread Second Coming make me, a sinner, worthy to stand at the right hand of your glory, at the prayers of your all-pure Mother and of all your Saints. Amen."
+li.rubric.thanksgivingtheotokos = "To the Most Holy Mother of God."
+li.thanksgivingprayer5 = "All-holy Lady, Mother of God, the light of my darkened
+soul, my hope, protection, refuge, comfort, joy, I thank you, because you have made me, the unworthy, worthy to become a partaker in the most pure Body and precious Blood of your Son. But, O you who gave birth to the true Light, enlighten
+the spiritual eyes of my heart; you who bore the source of immortality, give life to me, who have been slain by sin; you the compassionate Mother of the merciful God, have mercy on me and give me compunction and contrition in my heart, and humility in my ideas, and release from the imprisonment of my thoughts. And count me worthy, until my last breath, to receive without condemnation the hallowing of the most pure Mysteries, for healing of soul and body; and grant me tears of repentance and thanksgiving, to praise and glorify you all the days of my life."
+li.thanksgivingprayer5b = "For you are blessed and glorified to the ages. Amen."
+li.rubric.songofsymeon = "Then the Song of Symeon."
+li.rubric.trisagionetc = "Trisagion etc."
+li.rubric.apolytikionchrysostom = "Apolytikion of Saint John Chrysostom."
+li.apolytikionchrysostom = "The grace which shone from your mouth like a torch of flame enlightened the whole earth; it laid up for the world the treasures of freedom from avarice; it showed us the height
+of humility. But as you train us by your words, Father John Chrysostom, intercede with Christ God, the Word, that our souls may be saved."
+li.rubric.kontakionchrysostom = "Kontakion of Saint John Chrysostom."
+li.kontakionchrysostom = "You received divine grace from heaven, and through your lips you teach us all to worship one God in Trinity, venerable John Chrysostom, wholly blessed. Fittingly we praise you, for you are a teacher who makes clear things divine."
+li.rubric.theotokion = "Theotokion."
+li.theotokion = "At the prayers of all your Saints and of the Mother of God, grant us your peace, O Lord, and have mercy on us, for you alone are compassionate."
+li.uliyewathamani = "Greater in honour than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word: truly the Mother of God, we magnify you."
+li.rubric.anddismissal = "And Dismissal."
+li.apolytikia.title = "APOLYTIKIA OF THE RESURRECTION"
+li.intones.title = "IN THE EIGHT MODES"
+li.apolytikiontone1 = "When the stone had been sealed by the Jews, and while soldiers were guarding your most pure Body, you rose, O Saviour, on the third day, giving life to the world; therefore the heavenly Powers cried out to you, Giver of life: Glory to your Resurrection, O Christ! Glory to your Kingdom! Glory to your dispensation, only lover of mankind!"
+li.apolytikiontone2 = "When you went down to death, O immortal life, then you slew Hades with the lightning flash of your Godhead; but when from the depths below the earth you raised the dead, all the Powers beyond the heavens cried out: Giver of life, Christ our God, glory to you!"
+li.apolytikiontone3 = "Let everything in heaven rejoice, let everything on earth be glad, for the Lord has shown strength with his arm; by death he has trampled on death; he has become the first-born from the dead; from the bowels of Hades he has delivered us, and granted to the world his great mercy."
+li.apolytikiontone4 = "When the women Disciples of the Lord had learnt from the Angel the joyful message of the Resurrection, casting away the ancestral condemnation, triumphantly they said to the Apostles: Death has been despoiled, Christ God has been raised, granting the world his great mercy."
+li.apolytikiontone5 = "The Word without beginning with Father and with Spirit, born from a Virgin for our salvation, let us believers praise and let us worship him; for he was well pleased to ascend the Cross in the flesh and undergo death, and to raise those who had died, by his glorious Resurrection."
+li.apolytikiontone6 = "Angelic Powers were at your grave, and those who guarded it became as dead, and Mary stood by the tomb, seeking your most pure Body. You despoiled Hades and emerged unscathed; you met the Virgin and granted life. Lord, risen from the dead, glory to you!"
+li.apolytikiontone7 = "You abolished death by your Cross, you opened Paradise to the Thief, you transformed the Myrrhbearers’ lament, and ordered your Apostles to proclaim that you had risen, O Christ God, granting the world your great mercy."
+li.apolytikiontone8 = "You came down from above, O Compassionate, you accepted burial for three days, that you might free us from the passions. Our life and resurrection, Lord, glory to you!"
+li.apolytikiafeasts.title = "APOLYTIKIA FOR THE GREAT FEASTS"
+li.rubric.nativitytheotokosapolytikion = "September 8th. The Nativity of the Mother of God, and until the Close on the 12th."
+li.nativitytheotokos.apolytikion = "Your nativity, O Mother of God, brought joy to the whole inhabited world, for from you there dawned the Sun of righteousness, Christ our God. He abolished the curse and gave the blessing; and by making death of no effect he bestowed on us eternal life."
+li.rubric.exaltationcrossapolytikion = "September 14th. The Universal Exaltation of the Precious Cross, and until the Close on the 21st."
+li.exaltationcross.apolytikion = "Lord, save your people and bless your inheritance, granting to faithful Christians victories over their enemies, and protecting your commonwealth by your Cross."
+li.rubric.entrytheotokosapolytikion = "November 21st. The Entry of the Mother of God into the Temple, and until the Close on the 25th."
+li.entrytheotokos.apolytikion = "Today is the prelude of the good pleasure of God, and the proclaiming of the salvation of mankind. In the Temple of God the Virgin is revealed, and beforehand she announces Christ to all. To her then let us cry aloud with mighty voice: Hail, the fulfilment of the Creator’s dispensation!"
+li.rubric.forefathersapolytikion = "The Sunday of the holy Forefathers (December 11th–17th). Resurrection Apolytikion and of the Forebears."
+li.forefathers.apolytikion = "You justified the Forefathers by faith, through them betrothing in advance the Church from the nations. Let the Saints exult in glory, for from their seed there is a glorious fruit, she who bore you without seed. At their intercessions, O Christ God, save our souls."
+li.rubric.beforenativityapolytikion = "The Sunday before Christ’s Nativity (December 18th–24th). Resurrection Apolytikion and of the Forefathers."
+li.beforenativity.apolytikion = "Great are the achievements of faith! In the fountain of flame, as by water of rest, the three holy Youths rejoiced; and the Prophet Daniel was revealed shepherding lions like sheep. At their intercessions, Christ God, save our souls."
+li.rubric.nativitychristapolytikion = "December 25th. The Nativity according to the flesh of our Lord and God and Saviour, Jesus Christ, and until the Close on the 31st."
+li.nativitychrist.apolytikion = "Your Nativity, O Christ, our God, has made the light of knowledge dawn on the world; for through it those who adored the stars were taught by a star to worship you, the Sun of righteousness, and to know you, the Dawn from above. Lord, glory to you."
+li.rubric.theophanyapolytikion = "January 6th. The holy Theophany of our Lord, Jesus Christ, and until the Close on the 14th."
+li.theophany.apolytikion = "As you were baptized in the Jordan, Lord, the worship of the Trinity was made manifest: for the voice of the Father bore witness to you, naming you the Beloved Son; and the Spirit, in the form of a dove, confirmed the sureness of the word. Christ God, who appeared and enlightened the world, glory to you."
+li.rubric.meetinglordapolytikion = "February 2nd. The Meeting of the Lord, and until the Close."
+li.meetinglord.apolytikion = "Hail, full of grace, Virgin Mother of God, for from you there dawned the Sun of righteousness, Christ our God, who enlightens those in darkness. Be glad too, righteous Elder, for you received in your embrace the Liberator of our souls, who grants us also resurrection."
+li.rubric.annunciationapolytikion = "March 25th. The Annunciation of the Mother of God."
+li.annunciation.apolytikion = "Today is the crowning moment of our salvation, and the unfolding of the eternal mystery: the Son of God becomes the Son of the Virgin, and Gabriel brings the good tidings of grace. Therefore with him let us also cry aloud to the Mother of God: Hail, full of grace! The Lord is with you."
+li.rubric.transfigurationapolytikion = "August 6th. The Transfiguration of our Saviour, Jesus Christ, and until the Close on the 13th."
+li.transfiguration.apolytikion = "You were transfigured on the mountain, O Christ God, showing your Disciples your glory, as far as they could bear it. At the prayers of the Mother of God make your everlasting light shine also on us sinners. Giver of light, glory to you."
+li.rubric.dormitionapolytikion = "August 15th. The Dormition of the Mother of God, and until the Close on the 23rd (or the 28th)."
+li.dormition.apolytikion = "In giving birth you retained your virginity; in falling asleep you did not abandon the world, O Mother of God; you passed over into life, for you are the Mother of Life; and by your prayers you deliver our souls from death."
+li.apolytikiatriodionpentecostarion.title = "APOLYTIKIA FROM THE TRIODION AND PENTECOSTARION"
+li.rubric.lent1apolytikion = "On the 1st Sunday of Lent, the Sunday of Orthodoxy."
+li.lent1.apolytikion = "We venerate your most pure icon, loving Lord, as we ask pardon of our offences, Christ God. For by your own choice you were well-pleased to ascend the Cross in the flesh, to deliver from the slavery of the enemy those whom you had fashioned; therefore with thanksgiving we cry to you: You have filled all things with joy, our Saviour, by coming to save the world."
+li.rubric.lent2apolytikion = "On the 2nd Sunday of Lent, of St Gregory Palamas."
+li.lent2.apolytikion = "Orthodoxy’s beacon, support and teacher of the Church, fair glory of monastics, invincible champion of theologians, Wonderworker Gregory, the boast of Thessalonika and preacher of grace, intercede without ceasing that our souls may be saved."
+li.rubric.lent3apolytikion = "On the 3rd Sunday of Lent, of the Veneration of the Cross."
+li.rubric.lent4apolytikion = "On the 4th Sunday of Lent, of St John of the Ladder."
+li.lent4.apolytikion = "With the streams of your tears you cultivated the barren desert, and with deep sighings from the heart you made your toils bring forth fruit a hundredfold, and you became a beacon, shining in all the world by your wonders, our venerable Father John; intercede with Christ God that our souls may be saved."
+li.lent5.apolytikion = "In you, Mother, was preserved unimpaired that which is according to God’s image; for you took up the Cross and followed Christ, and by your deeds you taught us to despise the flesh, for it passes away, but to care for the soul, which is a thing immortal. And therefore your spirit, holy Mary, rejoices with the Angels."
+li.rubric.lazarusapolytikion = "On Lazarus Saturday and Palm Sunday."
+li.lazarus.apolytikion = "Assuring us before your Passion of the general resurrection, you raised Lazarus from the dead, O Christ God: therefore, like the Children, we also carry tokens of victory, and we cry to you, the Conqueror of death: Hosanna in the highest! Blessed is he who comes in the name of the Lord."
+li.rubric.palmapolytikion = "Another, for Palm Sunday only."
+li.palm.apolytikion = "Buried with you through Baptism, Christ our God, we have been granted immortal life by your Resurrection, and we sing your praises, as we cry: Hosanna in the highest! Blessed is he who comes in the name of the Lord."
+li.rubric.paschaapolytikion = "On the Holy and Great Sunday of Pascha."
+li.pascha.apolytikion = "Christ has risen from the dead, by death he has trampled on death and to those in the graves he has given life."
+li.rubric.thomasapolytikion = "On the Sunday of the Holy Apostle Thomas."
+li.thomas.apolytikion = "While the grave was sealed, Christ God, you dawned as life from the tomb; and while the doors were shut, you came, the resurrection of all, to your Disciples, through them renewing a right spirit in us, according to your great mercy."
+li.rubric.myrrhbearersapolytikion = "On the Sunday of the Myrrhbearers."
+li.myrrhbearers.apolytikion = "The noble Joseph, taking down your most pure Body from the Tree, wrapped it in a clean shroud with sweet spices and laid it for burial in a new grave. But on the third day you arose, O Lord, granting the world your great mercy."
+li.rubric.sametone = "The same Mode."
+li.myrrhbearers2.apolytikion = "The Angel standing by the grave cried to the women bearing myrrh: Myrrh is fitting for the dead, but Christ has shown himself a stranger to corruption. But cry aloud: The Lord has risen, granting the world his great mercy."
+li.rubric.midpentecostapolytikion = "On the Wednesday of Mid-Pentecost, and until the Leave-taking."
+li.midpentecost.apolytikion = "At the mid-point of the Feast, O Saviour, water my thirsty soul with streams of true devotion; for you cried out to all: Any who thirst, let them come to me, and let them drink! O Source of life, Christ our God, glory to you!"
+li.rubric.ascensionapolytikion = "On the Ascension of our Lord, and until the Leave-taking."
+li.ascension.apolytikion = "You were taken up in glory, Christ our God, giving joy to your Disciples by the promise of the Holy Spirit, when through the blessing they had been assured that you are the Son of God, the Redeemer of the world."
+li.rubric.holyfathersapolytikion = "On the Sunday of the Holy Fathers."
+li.holyfathers.apolytikion = "You are glorified above all, Christ, our God, who established our Fathers as beacons on the earth, and through them guided us all to the true faith. Greatly compassionate Lord, glory to you!"
+li.rubric.pentecostapolytikion = "On the Sunday of Pentecost, and until the Leave-taking."
+li.pentecost.apolytikion = "Blessed are you, Christ our God, who proclaimed the fishermen to be most wise by sending down to them the Holy Spirit, and so through them catching the whole world in a net. Lover of mankind, glory to you!"
+li.rubric.allsaintsapolytikion = "On the Sunday of All Saints."
+li.allsaints.apolytikion = "Clothed as in purple and fine linen with the blood of your Martyrs throughout the world, your Church cries out to you through them, Christ God: Send down your pity on your people; grant peace to your commonwealth, and to our souls your great mercy."
