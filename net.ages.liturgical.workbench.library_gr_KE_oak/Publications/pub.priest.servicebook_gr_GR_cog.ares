@@ -328,7 +328,7 @@ li.rubric.entrancechant = "Λαός (ψάλλει τὸ παρὸν Εἰσοδ
 li.rubric.sundaysofpascha = "Ἀπὸ τῆς Κυριακῆς τοῦ Πάσχα μέχρι τῆς Ἀποδόσεως ψάλλομεν·"
 li.rubric.kontakion1 = "Εἶτα ψάλλεται τὰ Ἀπολυτίκια τῆς ἡμέρας, τοῦ Ναοῦ καὶ μετὰ τὸ"
 li.rubric.kontakion2 = "τὸ Κοντάκιον τῆς Περιόδου ἤ τὴς Ἑορτὴς."
-li.rubric.theotokoskontakion = "Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)"
+li.rubric.theotokoskontakion = ""
 li.rubric.deaconkainyn = "Ὁ Διάκονος, ἐλθὼν ἐγγὺς τῆς Ὡραίας Πύλης, λέγει πρὸς τὸν Λαόν·"
 li.rubric.trisagionclergy = "Ὁ τε Ἱερεὺς καὶ ὁ Διάκονος λέγουσιν ἐναλλὰξ τὸ Τρισάγιον, ποιοῦντες ὁμοῦ τρία προσκυνήματα ἔμπροσθεν τῆς ἁγίας Τραπέζης."
 li.rubric.command = "Εἰτα λέγει ὁ Διάκονος πρὸς τὸν Ἱερέα·"
@@ -636,7 +636,7 @@ li.rubric.carnivalsaturdaykontakion = "Τῷ Σαββάτῳ τῆς Ἀπόκρ
 li.rubric.carnivalkontakion = "Τῇ Κυριακῇ τῆς Ἀπόκρεω."
 li.rubric.cheesefarekontakion = "Τῇ Κυριακῇ τῆς Τυρινῆς."
 li.rubric.lenttheotokoskontakion = "Ἀπὸ τῆς πρώτης Κυριακῆς τῶν Νηστειῶν μὲχρι τοῦ Σαββάτου τοῦ Ἀκαθίστου."
-li.rubric.lenttheotokoskontakion2 = "Τῇ Ε’ Κυριακῇ τῶν Νηστειῶν, ἐὰν παρῆλθεν ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ·"
+li.rubric.lenttheotokoskontakion2 = "Τῇ Ε’ Κυριακῇ τῶν Νηστειῶν, ἐὰν παρῆλθεν ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ· ((Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)"
 
 li.rubric.march24kontakion = "Τῇ κδ’ Μαρτίου. Προεόρτια τοῦ Εὐαγγελισμοῦ."
 li.rubric.annunciationkontakion = "Τῇ κε’ Μαρτίου. Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου."
@@ -649,7 +649,7 @@ li.rubric.ascensionkontakion = "Τῇ Πέμπτῃ τῆς Ἀναλήψεως,
 li.rubric.pentecostkontakion = "Τῇ Κυριακῇ τῆς ἁγίας Πεντηκοστῆς, καὶ μὲχρι τῆς Ἀποδόσεως."
 li.rubric.allsaintskontakion = "Τῇ Κυριακῇ τῶν Ἁγίων Πάντων."
 
-li.rubric.theotokoskontakion = "Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)"
+li.rubric.theotokoskontakionallsaints = "Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)"
 li.rubric.july2kontakion = "Τῇ β’ Ἰουλίου. Ἡ κατάθεσις ταῆς τιμίας ἐσθῆτος τῆς ὑπεραγίας Θεοτόκου."
 li.rubric.july25kontakion = "Τῇ κε’ Ἰουλίου. Ἡ κοίμησις τῆς ἁγίας Ἄννης."
 li.rubric.july27kontakion = "Ἀπό τῆς κζ’ Ἰουλίου μὲχρι τῆς ἀποδόσεως τῆς Μεταμορφώσεως (τῇ ιγ’ Αὐγούστου)."
