@@ -109,6 +109,11 @@ bless.both.title = ""
 fun.title = ""
 fun.stasis01.title = ""
 
+// Service book title
+li.servicebook.title = "Η ΘΕΙΑ ΛEΙΤΟΥΡΓΙΑ"
+li.servicebook.title2 = "ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ"
+li.servicebook.title3 = "ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
+
 // Divine Liturgy Preparation Titles
 li.preparation.title = "ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΠΡΟΣΚΟΜΙΔΗΣ"
 li.preparation.protheseos.title = "ΤΗΝ ΕΥΧΗΝ ΤΗΣ ΠΡΟΘΕΣΕΩΣ·"
@@ -298,6 +303,7 @@ li.ambonprayer.title = "ΤΗΝ ΟΠΙΣΘΑΜΒΟΝΟΝ ΕΥΧΗΝ"
 li.end.title = "ΤΕΛΟΣ ΤΗΣ ΘΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
 
 //Divine Liturgy Rubrics
+li.rubric.beginliturgy = "Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ"
 li.rubric.eachpetition = "Μετὰ πᾶσαν δέησιν."
 li.rubric.iffeast = "Εἰ μὲν ἐστι Δεσποτικὴ ἢ Θεομητορικὴ ἑορτή, ἢ μεθέορτα, ἢ ἀπόδοσις αὐτῆς, ψάλλονται τὰ Ἀντίφωνα αὐτῆς· εἰ δὲ μή, τὰ Τυπικά."
 li.rubric.sundayantifon1 = "Ἐν δὲ ταῖς Κυριακαῖς νῦν ψάλλεται συνήθως τὸ παρόν·"
