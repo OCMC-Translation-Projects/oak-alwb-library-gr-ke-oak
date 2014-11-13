@@ -105,7 +105,7 @@ cup.title = ""
 crowns.take.title = ""
 bless.both.title = ""
 
-//Funeral tiles
+//Funeral titles
 fun.title = ""
 fun.stasis01.title = ""
 
@@ -550,7 +550,7 @@ li.rubric.nativitychristapolytikion = "Τῇ κε’ Δεκεμβρίου. Ἡ
 li.rubric.theophanyapolytikion = "Τῇ ς’ Ἰανουαρίου. Τὰ ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ μέχρι τῆς Ἀποδόσεως τῇ ιδ’."
 li.rubric.meetinglordapolytikion = "Τῇ β’ Φεβρουαρίου. Ἡ Ὑπαπαντή τοῦ Κυρίου, καὶ μέχρι τῆς Ἀποδόσεως."
 li.rubric.annunciationapolytikion = "Τῇ κε’ Μαρτίου. Ὁ Εὐαγγελισμὸς τῆς ὑπεραγίας Θεοτόκου."
-li.rubric.transfigurationapolytikion = "Τῇ ς’ Αὐγούστου. Ἡ Μεταμόρφωσις τοῦ Σωτῆρος ἡμῶν Ἰησού Χριστοῦ, καὶ μέχρι τῆς Ἀποδόσεως τῇ τ􏰤 ιγ’."
+li.rubric.transfigurationapolytikion = "Τῇ ς’ Αὐγούστου. Ἡ Μεταμόρφωσις τοῦ Σωτῆρος ἡμῶν Ἰησού Χριστοῦ, καὶ μέχρι τῆς Ἀποδόσεως τῇ ιγ’."
 li.rubric.dormitionapolytikion = "Τῇ ιε’ Αὐγούστου. Ἡ Κοίμησις τῆς ὑπεραγίας Θεοτόκου, καὶ μέχρι τῆς Ἀποδόσεως τῇ κγ’[ἤ τῇ κη’]."
 
 li.rubric.lent1apolytikion = "Τῇ Α’ Κυριακῇ τῶν Νηστειῶν, τῆς Ὀρθοδοξίας."

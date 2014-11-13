@@ -104,9 +104,14 @@ cup.title = ""
 crowns.take.title = ""
 bless.both.title = ""
 
-//Funeral tiles
+//Funeral titles
 fun.title = ""
 fun.stasis01.title = ""
+
+// Service book title
+li.servicebook.title = "THE DIVINE LITURGY"
+li.servicebook.title2 = "OF OUR FATHER AMONG THE SAINTS"
+li.servicebook.title3 = "JOHN CHRYSOSTOM"
 
 // Divine Liturgy Preparation Titles
 li.preparation.title = "THE SERVICE OF PREPARATION"
@@ -725,9 +730,6 @@ li.phanouriosprayer = "Lord Jesus Christ our God, wonderful in your saints, who 
 li.phanouriosprayerb = "For you are our God, and to you we give glory, together with your Father who has no beginning, and your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages. Amen."
 li.prayerforgiveness.title = "PRAYER OF FORGIVENESS"
 li.forgivenessprayer = "Lord Jesus Christ, Son of the living God, Shepherd and Lamb, who takes away the sin of the world, you forgave the two debtors their loan and granted the sinful woman forgiveness of her sins. Remit, forgive, pardon, Master, the sins, iniquities, and offences, voluntary or involuntary, committed by these servants of yours, both knowingly and unwittingly, through transgression and disobedience. And if, as human beings clothed in flesh and living in the world, they have in any way been led astray by the Devil, whether in word or deed, knowingly or unwittingly; if they have trampled on the word of a priest, or come under the curse of a priest; if they have fallen under their own anathema, or been made subject to an oath, as you are good, Master, and do not remember evils, be well pleased for these servants of yours to be loosed by a word, in accordance with your great mercy granting them absolution from their own anathema and oath. Master and Lord who loves mankind, hear us therefore as we implore your goodness on behalf of these servants of yours, and, as you are full of mercy, overlook all their faults. Deliver them from eternal punishment. For you said, Master, ‘Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven’. For you alone are without sin, and to you we give glory, together with your Father who is without beginning, and your all-holy, good, and life-giving Spirit, now and for ever, and to the ages of ages."
-li.servicebook.title = "THE DIVINE LITURGY"
-li.servicebook.title2 = "OF OUR FATHER AMONG THE SAINTS"
-li.servicebook.title3 = "JOHN CHRYSOSTOM"
 li.rubric.beginliturgy = "The Priest, lifting up the book of the Gospel, and making the sign of the Cross with it over the Antimension, says in a clear voice:"
 li.godisthelord = "Blessed is he who comes in the name of the Lord. The Lord is God and has appeared to us."
 li.vadizo = "See, to divine Communion I approach; My Maker, burn me not as I partake, For you are fire consuming the unworthy, But rather cleanse me now of every stain."
