@@ -86,11 +86,12 @@ Wed.Roundtable = ""
 Wed.Prayer4Both = ""
 Wed.RemoveCrowns = ""
 
-// Rubrical Funeral
-Rub.Fun.ArrivalAtChurch = ""
-Fun.TonePlagIV = ""
-Fun.PriestCensing = ""
-Fun.ReaderAndPeopleChant = ""
+// Funeral Rubrics
+fu.rubric.arrivalatchurch = "Ὅταν τὀ λείψανο φθἀσει στὀν ναὀ, ὁ ἱερἐας μἐ ρἀσο, ἐπιτραχἠλιο καἰ θυμιατό, τὀ συναντᾶ στἠν είσοδο καἰ τὀ συνοδεύει στόν σολέα ψάλλοντας τὀ ἀργὀ Ἅγιος ὁ Θεός. Ἀκολούθως βάζει τό Φελώνιο καἰ ἀρχίζει τἠν ἀκολουθία."
+fu.rubric.psalm118 = "(Καἰ ἀρχίζει νἀ ψάλλῃ ἀπὸ τὸν 118ον Ψαλμὸν εἰς Ἦχον πλ.β´.)"
+fu.rubric.psalm118.b = "(Καἰ ἀρχίζει νἀ ψάλλῃ εἰς Ἦχον πλ.α´.)"
+fu.rubric.litany2 = "(Ἂν ὑπάρχει δεύτερος Ἱερεύς, λέγει:)"
+fu.rubric.psalm118.c = "(Καὶ ἀρχίζει νὰ ψάλλῃ εἰς Ἦχον πλ.δ´.)"
 
 // Decorators
 Asterisks = "*******************************************"
