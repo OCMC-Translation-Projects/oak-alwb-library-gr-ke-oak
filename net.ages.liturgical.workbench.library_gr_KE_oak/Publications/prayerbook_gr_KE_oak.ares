@@ -6,6 +6,8 @@ prbk.title1 = ""
 prbk.title2 = ""
 prbk.title3 = ""
 
+prbk.toc = ""
+
 prbk.introduction.title1 = ""
 prbk.introduction.title2 = ""
 prbk.introduction.text = ""
@@ -14,3 +16,10 @@ prbk.introduction.title4 = ""
 matt77.text = ""
 matt66.text = ""
 prbk.introduction.text2 = ""
+
+prbk.title.morningprayers = ""
+prbk.rubric.morningprayers = ""
+prbk.rubric2.morningprayers = ""
+
+prbk.mercy = ""
+prbk.thoughtheprayers = ""
