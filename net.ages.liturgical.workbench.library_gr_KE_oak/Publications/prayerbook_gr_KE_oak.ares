@@ -18,8 +18,49 @@ matt66.text = ""
 prbk.introduction.text2 = ""
 
 prbk.title.morningprayers = ""
+prbk.title.middayprayers = ""
+prbk.title.eveningprayers = ""
+prbk.title.occasionalprayers = ""
+
 prbk.rubric.morningprayers = ""
 prbk.rubric2.morningprayers = ""
+prbk.rubric.privatedevotions = ""
+prbk.rubric.firsttrisagion = ""
+prbk.rubric.firstcreed = ""
+prbk.rubric.beforesleep = ""
 
 prbk.mercy = ""
 prbk.thoughtheprayers = ""
+
+TropariaTrinity = ""
+TropariaTrinity1 = ""
+TropariaTrinity2 = ""
+TropariaTrinity3 = ""
+TropariaThanksgiving = ""
+TropariaThanksgiving1 = ""
+TropariaThanksgiving2 = ""
+TropariaThanksgiving3 = ""
+
+prbk.trinityprayer.title = ""
+prbk.trinityprayer.text = ""
+
+prbk.stbasil.title = ""
+prbk.stbasil.text = ""
+
+prbk.middayprayer = ""
+
+prbk.forgivenessprayer.title = ""
+prbk.forgivenessprayer.text = ""
+
+prayerofthehours.text = ""
+
+prbk.enteringchurch.title = ""
+prbk.enteringchurch.text = ""
+prbk.leavingchurch.title = "" // see leosVE.Prayer_NynApolyeis.text for the text of this prayer
+
+prbk.iconchrist.title = ""
+prbk.iconchrist.text = ""
+Jesusprayer.title = ""
+Jesusprayer.text = ""
+prbk.icontheotokos.title = ""
+prbk.icontheotokos.text = ""
