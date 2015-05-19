@@ -64,3 +64,5 @@ Jesusprayer.title = ""
 Jesusprayer.text = ""
 prbk.icontheotokos.title = ""
 prbk.icontheotokos.text = ""
+prbk.songtheotokos.title = "" // see AxionEstin.text for the text of this prayer
+prbk.angelicsalutation.title = "" // see hoVE.LentApolytikion1.text for the text of this prayer
