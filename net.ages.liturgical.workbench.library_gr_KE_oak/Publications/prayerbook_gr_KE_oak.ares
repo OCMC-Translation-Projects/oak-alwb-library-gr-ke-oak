@@ -21,6 +21,7 @@ prbk.title.morningprayers = ""
 prbk.title.middayprayers = ""
 prbk.title.eveningprayers = ""
 prbk.title.occasionalprayers = ""
+prbk.title.tableprayers = ""
 
 prbk.rubric.morningprayers = ""
 prbk.rubric2.morningprayers = ""
@@ -28,6 +29,10 @@ prbk.rubric.privatedevotions = ""
 prbk.rubric.firsttrisagion = ""
 prbk.rubric.firstcreed = ""
 prbk.rubric.beforesleep = ""
+prbk.rubric.beforebreakfast = ""
+prbk.rubric.ifpriest = ""
+prbk.rubric.afterbreakfast = ""
+prbk.rubric.beforesupper = ""
 
 prbk.mercy = ""
 prbk.thoughtheprayers = ""
@@ -66,3 +71,14 @@ prbk.icontheotokos.title = ""
 prbk.icontheotokos.text = ""
 prbk.songtheotokos.title = "" // see AxionEstin.text for the text of this prayer
 prbk.angelicsalutation.title = "" // see hoVE.LentApolytikion1.text for the text of this prayer
+
+prbk.patronsaint.title = ""
+prbk.patronsaint.text = ""
+
+prbk.guardianangel.title = ""
+prbk.guardianangel.text = ""
+
+prbk.blessfood = ""
+prbk.afterbreakfast.text = ""
+prbk.supper1.text = ""
+prbk.supper2.text = ""
