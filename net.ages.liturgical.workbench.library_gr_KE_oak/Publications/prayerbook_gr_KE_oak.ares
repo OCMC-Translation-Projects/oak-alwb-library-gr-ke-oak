@@ -89,3 +89,15 @@ prbk.aftersupper2.text = ""
 
 prbk.repentance.title = ""
 prbk.repentance.text = ""
+
+prbk.task.title = ""
+prbk.task.text = ""
+
+prbk.parents.title = ""
+prbk.parents.text = ""
+
+prbk.priesthood.title = ""
+prbk.priesthood.text = ""
+
+prbk.married.title = ""
+prbk.married.text = ""
