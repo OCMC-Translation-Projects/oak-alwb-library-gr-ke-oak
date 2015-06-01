@@ -101,3 +101,17 @@ prbk.priesthood.text = ""
 
 prbk.married.title = ""
 prbk.married.text = ""
+
+prbk.single.title = ""
+prbk.single.text = ""
+
+prbk.child.title = ""
+prbk.child.text = ""
+
+prbk.journey.title = ""
+prbk.journey.text = ""
+
+prbk.trouble1.title = ""
+prbk.trouble1.text = ""
+prbk.trouble2.title = ""
+prbk.trouble2.text = ""
