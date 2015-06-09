@@ -23,6 +23,7 @@ prbk.title.eveningprayers = ""
 prbk.title.occasionalprayers = ""
 prbk.title.tableprayers = ""
 prbk.title.occasionalprayers2 = ""
+prbk.title.studyprayers = ""
 
 prbk.rubric.morningprayers = ""
 prbk.rubric2.morningprayers = ""
@@ -131,3 +132,20 @@ prbk.enemies.text = ""
 
 prbk.peace.title = ""
 prbk.peace.text = ""
+
+prbk.love.title = ""
+prbk.love.text = ""
+
+prbk.student.title = ""
+prbk.student.text = ""
+prbk.beforestudy.title = ""
+prbk.beforestudy1.text = ""
+prbk.beforestudy2.text = ""
+prbk.afterstudy.title = ""
+prbk.afterstudy.text = ""
+
+prbk.miscarriage.title = ""
+prbk.miscarriage.text = ""
+
+prbk.dead.title = ""
+prbk.dead.text = ""
