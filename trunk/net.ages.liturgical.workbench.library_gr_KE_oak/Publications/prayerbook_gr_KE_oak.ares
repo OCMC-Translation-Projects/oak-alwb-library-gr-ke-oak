@@ -39,6 +39,7 @@ prbk.rubric.afterbreakfast = ""
 prbk.rubric.beforesupper = ""
 prbk.rubric.aftersupper = ""
 prbk.rubric.communionprep1 = ""
+prbk.rubric.communionprep2 = ""
 
 prbk.mercy = ""
 prbk.throughtheprayers = ""
@@ -158,3 +159,10 @@ prbk.newyear.text = ""
 
 prbk.generalintercession.title = ""
 prbk.generalintercession.text = ""
+
+prbk.communiontroparia1.text = ""
+prbk.communiontroparia2.text = ""
+prbk.communiontroparia3.text = ""
+
+prbk.communion1.title = ""
+prbk.communion1.text = ""
