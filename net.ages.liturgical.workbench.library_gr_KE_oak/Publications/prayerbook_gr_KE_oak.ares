@@ -27,6 +27,8 @@ prbk.title.studyprayers = ""
 prbk.title.communionprayers = ""
 prbk.title.communionprep = ""
 prbk.title.communionprayers2 = ""
+prbk.title.communionprayers3 = ""
+prbk.title.repentance = ""
 
 prbk.rubric.morningprayers = ""
 prbk.rubric2.morningprayers = ""
@@ -173,3 +175,7 @@ prbk.communion2.text = ""
 
 prbk.communion3.title = ""
 prbk.communion3.text = ""
+
+prbk.aftercommunion1 = ""
+prbk.aftercommunion2 = ""
+prbk.aftercommunion3 = ""
