@@ -94,7 +94,6 @@ prbk.enteringchurch.text = ""
 prbk.leavingchurch.title = "" // see leosVE.Prayer_NynApolyeis.text for the text of this prayer
 
 prbk.iconchrist.title = ""
-prbk.iconchrist.text = ""
 Jesusprayer.title = ""
 Jesusprayer.text = ""
 prbk.icontheotokos.title = ""
