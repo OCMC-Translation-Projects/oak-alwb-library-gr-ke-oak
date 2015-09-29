@@ -814,11 +814,17 @@ li.forgivenessprayer = "Κύριε, Ἰησοῦ Χριστέ, Υἱὲ τοῦ 
 // for Portuguese version
 li.rubric.part1 = ""
 li.rubric.open = ""
+li.rubric.prayereachvestment = ""
 
 li.priestpreparation.title = ""
 li.holydoors.title = ""
 li.iconprayers.title = ""
 li.vesting.title = ""
+li.proskomidi.title = ""
+li.proskomidi.title2 = ""
+li.wineandwater.title = ""
+
+li.preparation.lift = ""
 
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"

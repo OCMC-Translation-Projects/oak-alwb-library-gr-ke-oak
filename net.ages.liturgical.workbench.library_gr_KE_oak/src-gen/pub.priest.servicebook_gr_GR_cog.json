@@ -738,10 +738,15 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|forgivenessprayer', 'text' : 'Κύριε, Ἰησοῦ Χριστέ, Υἱὲ τοῦ Θεοῦ τοῦ ζῶντος, Ποιμὴν καὶ Ἀμνέ, ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου, ὁ τὸ δάνειον χαρισάμενος τοῖς δυσὶ χρεωφειλέταις καὶ τῇ ἁμαρτωλῷ δοὺς ἄφεσιν ἁμαρτιῶν αὐτῆς· αὐτός, Δέσποτα, ἄνες, ἄφες, συγχώρησον τὰς ἁμαρτίας, τὰς ἀνομίας, τὰ πλημμελήματα, τὰ ἑκούσια καὶ τὰ ἀκούσια, τὰ ἐν γνώσει, τὰ ἐν ἀγνοίᾳ, τὰ ἐν παραβάσει καὶ παρακοῇ γενόμενα παρὰ τῶν δούλων σου τούτων. Καὶ εἴ τι, ὡς ἄνθρωποι σάρκα φοροῦντες καὶ τὸν κόσμον οἰκοῦντες, ἐκ τοῦ Διαβόλου ἐπλανήθησαν, εἴτε ἐν λόγῳ, εἴτε ἐν, ἔργῳ, εἴτε ἐν γνώσει, εἴτε ἐν ἀγνοίᾳ, εἴτε λόγον Ἱερέως κατεπάτησαν ἢ ὑπὸ κατάραν Ἱερέως ἐγένοντο, εἴτε τῷ ἰδίῳ ἀναθέματι ὑπέπεσον ἢ ὅρκῳ ὑπήχθησαν· αὐτός, ὡς ἀγαθὸς καὶ ἀμνησίκακος Δεσπότης, τούτους τοὺς δούλους σου λόγῳ λυθῆναι εὐδόκησον, συγχωρῶν αὐτοῖς καὶ τὸ ἴδιον ἀνάθεμα καὶ τὸν ὅρκον, κατὰ τὸ μέγα σου ἔλεος. Ναί, Δέσποτα φιλάνθρωπε Κύριε, ἐπάκουσον ἡμῶν δεομένων τῆς σῆς ἀγαθότητος ὑπὲρ τῶν δούλων σου τούτων, καὶ πάριδε ὡς πολυέλεος τὰ πταίσματα αὐτῶν ἅπαντα· ἀπάλλαξον αὐτοὺς τῆς αἰωνίου κολάσεως· σὺ γὰρ εἴπας, Δέσποτα· Ὅσα ἂν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα ἐν τῷ οὐρανῳ, καὶ ὅσα ἂν λύσητε ἐπὶ τῆς γῆς, ἔσται λελυμένα ἐν τῷ οὐρανῳ. Ὅτι σὺ εἶ μόνος ἀναμάρτητος καὶ σοὶ τὴν δόξαν ἀναπέπμομεν, σὺν τῷ ἀνάρχῳ σου Πατρί, καὶ τῷ παναγίῳ καὶ ἀγαθῷ καὶ ζωοποιῷ σου Πνεύματι, νῦν καὶ ἀεί, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|part1', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|open', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|prayereachvestment', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|priestpreparation|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|holydoors|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|iconprayers|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|vesting|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|proskomidi|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|proskomidi|title2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|wineandwater|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|lift', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|html|tab', 'text' : 'ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|header', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|cover', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον'}
