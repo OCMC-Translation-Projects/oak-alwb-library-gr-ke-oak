@@ -739,6 +739,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|part1', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|open', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|prayereachvestment', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|particlesall', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|priestpreparation|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|holydoors|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|iconprayers|title', 'text' : ''}
@@ -746,7 +747,12 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|proskomidi|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|proskomidi|title2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|wineandwater|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|commemoration|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|incense|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|cover|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|lift', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|remembercountry', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|placestar', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|html|tab', 'text' : 'ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|header', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|cover', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον'}

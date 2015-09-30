@@ -815,6 +815,7 @@ li.forgivenessprayer = "Κύριε, Ἰησοῦ Χριστέ, Υἱὲ τοῦ 
 li.rubric.part1 = ""
 li.rubric.open = ""
 li.rubric.prayereachvestment = ""
+li.rubric.particlesall = ""
 
 li.priestpreparation.title = ""
 li.holydoors.title = ""
@@ -823,8 +824,13 @@ li.vesting.title = ""
 li.proskomidi.title = ""
 li.proskomidi.title2 = ""
 li.wineandwater.title = ""
+li.commemoration.title = ""
+li.incense.title = ""
+li.cover.title = ""
 
 li.preparation.lift = ""
+li.remembercountry = ""
+li.preparation.placestar = ""
 
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"
