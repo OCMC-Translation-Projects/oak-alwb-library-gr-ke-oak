@@ -6,5 +6,8 @@ o.t.book.title2 = ""
 o.t.book.title3 = ""
 
 rubric.order = ""
+rubric.without = ""
+rubric.apolytikion = ""
+rubric.theotokion = ""
 
 awesomeintercession.text = ""
