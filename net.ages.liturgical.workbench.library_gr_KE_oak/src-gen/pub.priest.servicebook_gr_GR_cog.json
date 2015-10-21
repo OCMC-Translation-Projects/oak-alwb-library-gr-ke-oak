@@ -751,6 +751,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|lift', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|remembercountry', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|placestar', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|forgivebrothers', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|html|tab', 'text' : 'ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|header', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|cover', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον'}

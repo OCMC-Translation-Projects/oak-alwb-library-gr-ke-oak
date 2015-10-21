@@ -830,6 +830,8 @@ li.preparation.lift = ""
 li.remembercountry = ""
 li.preparation.placestar = ""
 
+li.forgivebrothers = ""
+
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"
 psb.pdf.header = "Μικρὸν Ευχολογιον Αγιασμα Ταριον."
