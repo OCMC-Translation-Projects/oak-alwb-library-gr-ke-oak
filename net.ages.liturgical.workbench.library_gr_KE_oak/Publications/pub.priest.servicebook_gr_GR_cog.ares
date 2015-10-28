@@ -770,6 +770,8 @@ li.artoclasianote = "Παρ’ ὅλον ὅτι κατ’ ἔθος ἐν πο�
 li.trisagion.title = "ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΝΕΚΡΩΣΙΜΟΥ ΤΡΙΣΑΓΙΟΥ"
 li.evlogitariadeparted.title = "ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ"
 
+li.rubric.beginning1 = "" // for Spanish
+li.rubric.beginning2 = "" // for Spanish
 li.rubric.thefollowingtroparia = "Εἶτα ψάλλομεν τὰ παρόντα Τροπάρια."
 li.rubric.oneperson = "Ὑπὲρ ἑνὸς ἢ μιᾶς·"
 li.rubric.manypeople = "Ὑπὲρ πολλῶν κεκοιμημένων·"

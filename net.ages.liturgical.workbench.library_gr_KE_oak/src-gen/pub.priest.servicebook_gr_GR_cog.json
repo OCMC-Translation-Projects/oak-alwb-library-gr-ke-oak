@@ -701,6 +701,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|artoclasianote', 'text' : 'Παρ’ ὅλον ὅτι κατ’ ἔθος ἐν πολλαῖς ἐνορίαις τελεῖται ἡ Ἀρτο­κλασία ἐπὶ τὸ τέλος τῆς Λειτουργίας, συνιστῶμεν ἐνθέρμως ἵνα αὐτὴ τελῆται εἴτε ἐπὶ τὸ τέλος τοῦ Ἑσπερινοῦ, εἴτε ἐπὶ τὸ τέλος τῆς Δοξολογίας πρὸ τῆς Λειτουργίας.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|trisagion|title', 'text' : 'ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΝΕΚΡΩΣΙΜΟΥ ΤΡΙΣΑΓΙΟΥ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|evlogitariadeparted|title', 'text' : 'ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginning1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginning2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|thefollowingtroparia', 'text' : 'Εἶτα ψάλλομεν τὰ παρόντα Τροπάρια.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|oneperson', 'text' : 'Ὑπὲρ ἑνὸς ἢ μιᾶς·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|manypeople', 'text' : 'Ὑπὲρ πολλῶν κεκοιμημένων·'}
