@@ -12,6 +12,7 @@
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|anavathmi', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|orthrosgospel', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|kontakion', 'text' : ''}
+{'id_' : 'orthros|typica_gr_KE_oak|rubric|kontakion2', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|synaxarion', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|begintypika', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|rubric|opencurtain', 'text' : ''}
@@ -20,3 +21,4 @@
 {'id_' : 'orthros|typica_gr_KE_oak|exapostilarion|theotokion|text', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|heavenlychoir|a', 'text' : ''}
 {'id_' : 'orthros|typica_gr_KE_oak|heavenlychoir|b', 'text' : ''}
+{'id_' : 'orthros|typica_gr_KE_oak|heavenlychoir|c', 'text' : ''}
