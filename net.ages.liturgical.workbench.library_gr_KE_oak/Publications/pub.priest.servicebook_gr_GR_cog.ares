@@ -286,10 +286,11 @@ li.rubric.bowthrice = "Εἶτα, προσκυνοῦντες ἀμφότερο�
 li.rubric.kairos = "Καὶ ὁ Διάκονος, ὑποκλίνας τὴν κεφαλὴν λέγει τῷ Ἱερεῖ·"
 li.rubric.blessdeacon = "Ὁ δὲ Ἱερεύς, ἐπιθεὶς τὴν δεξιὰν χεῖρα ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ σφραγίζων αὐτόν, λέγει·"
 li.rubric.venerate = "Εἶτα ἀσπάζονται ὁ μὲν Ἱερεὺς τὸ Εὐαγγέλιον, ὁ δὲ Διά­κονος τὴν ἁγίαν Τράπεζαν καὶ τὴν τοῦ Ἱερέως χεῖρα., καὶ ἐξελθὼν τοῦ Βήματος ἵσταται ἐνώπιον ταῆς Ὡραίας Πύλης καὶ ἐκφωνεῖ·"
-li.rubric.liturgybegins = "Καὶ ἄρχεται ἡ θεία Λειτουργία." // edited to remove invisible n-dash
+li.rubric.liturgybegins = "Καὶ ἄρχεται ἡ θεία Λειτουργία."
 li.rubric.ifsunday = "Ὁ β’ χορὸς ἀναστάσιμον τροπάριον."
 li.rubric.firstmodes = "Εἰς μὲν τοὐς ἤχους α’, β’, γ’ καἰ δ’ τὀ παρόν."
 li.rubric.altmodes = "Εἰς δἐ τοὐς ἤχους πλ. α’, πλ. β’, βαρὐν καἰ πλ. δ’ τὀ παρόν."
+li.rubric.apolysis = ""
 
 // Divine Liturgy Titles
 li.liturgy.title = "Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
@@ -834,6 +835,14 @@ li.remembercountry = ""
 li.preparation.placestar = ""
 
 li.forgivebrothers = ""
+
+li.censing.title = ""
+li.altar.title = ""
+
+li.rubric.cense = ""
+li.rubric.cense2 = ""
+li.rubric.heavenlyking = ""
+li.rubric.bowthricealtar = ""
 
 // Titles
 psb.html.tab = "ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ"
