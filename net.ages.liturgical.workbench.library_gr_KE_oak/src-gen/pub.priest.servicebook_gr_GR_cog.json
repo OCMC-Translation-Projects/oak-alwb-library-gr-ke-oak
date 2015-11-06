@@ -484,6 +484,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|ofday', 'text' : '(τῆς ἡμέρας),'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|memory', 'text' : 'οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessingmercy', 'text' : 'Εὐλογία Κυρίου καὶ ἔλεος ἔλθοι ἐπὶ σέ.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|exclight', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|prepcommunion|title', 'text' : 'ΕΥΧΑΙ ΤΗΣ ΜΕΤΑΛΗΨΕΩΣ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|seepage', 'text' : 'Τὰς Εὐχὰς τῆς θείας Κοινωνίας βλ. σελ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|pagenumber', 'text' : ''}
