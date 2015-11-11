@@ -332,6 +332,7 @@ li.distribution.title = "ΔΙΑΝΟΜΗ ΤΗΣ ΘΕΙΑΣ ΚΟΙΝΩΝΙΑΣ"
 li.thanksdismissal.title = "Η ΕΥΧΑΡΙΣΤΗΡΙΟΣ ΕΥΧΗ ΚΑΙ ΑΠΟΛΥΣΙΣ"
 li.ambonprayer.title = "ΤΗΝ ΟΠΙΣΘΑΜΒΟΝΟΝ ΕΥΧΗΝ"
 li.end.title = "ΤΕΛΟΣ ΤΗΣ ΘΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
+li.axion.title = ""
 
 //Divine Liturgy Rubrics
 li.rubric.beginliturgy = "Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ"
@@ -480,6 +481,12 @@ li.rubric.evlogiakyriou = "Ὁ δὲ Ἱερεύς, ἐξελθὼν διὰ τ
 li.rubric.sundaydismissal = "(εἰπέρ ἐστι Κυριακή)"
 li.rubric.finalblessing = "Ὁ Ἱερεὺς εὐλογῶν τὸν λαὸν λέγει·"
 li.rubric.giveantidoron = "Ὁ Ἱερεὺς διανέμει τὸ Ἀντίδωρον, λέγων ἑνὶ ἑκάστῷ·"
+li.rubric.closedoors = ""
+li.rubric.eat = ""
+li.rubric.allbow = ""
+li.rubric.drink = ""
+li.rubric.allbow2 = ""
+li.rubric.thirdhour = ""
 
 // Divine Liturgy
 li.prokimenonmode = "Προκείμενον τοῦ Ἀποστόλου. Ἦχος… . Ψαλμός τῷ Δαβίδ."
@@ -520,6 +527,10 @@ li.dis.ofday = "(τῆς ἡμέρας),"
 li.dis.memory = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν,"
 li.blessingmercy = "Εὐλογία Κυρίου καὶ ἔλεος ἔλθοι ἐπὶ σέ."
 li.exclight = ""
+li.Key1101b = ""
+li.remember1 = ""
+li.remember2 = ""
+li.remember3 = ""
 
 // Preparation for Communion
 li.prepcommunion.title = "ΕΥΧΑΙ ΤΗΣ ΜΕΤΑΛΗΨΕΩΣ"

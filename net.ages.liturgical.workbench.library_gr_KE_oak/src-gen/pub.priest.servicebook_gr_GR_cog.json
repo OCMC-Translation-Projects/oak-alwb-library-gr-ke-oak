@@ -301,6 +301,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thanksdismissal|title', 'text' : 'Η ΕΥΧΑΡΙΣΤΗΡΙΟΣ ΕΥΧΗ ΚΑΙ ΑΠΟΛΥΣΙΣ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|ambonprayer|title', 'text' : 'ΤΗΝ ΟΠΙΣΘΑΜΒΟΝΟΝ ΕΥΧΗΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|end|title', 'text' : 'ΤΕΛΟΣ ΤΗΣ ΘΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|axion|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginliturgy', 'text' : 'Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eachpetition', 'text' : 'Μετὰ πᾶσαν δέησιν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|iffeast', 'text' : 'Εἰ μὲν ἐστι Δεσποτικὴ ἢ Θεομητορικὴ ἑορτή, ἢ μεθέορτα, ἢ ἀπόδοσις αὐτῆς, ψάλλονται τὰ Ἀντίφωνα αὐτῆς· εἰ δὲ μή, τὰ Τυπικά.'}
@@ -447,6 +448,12 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sundaydismissal', 'text' : '(εἰπέρ ἐστι Κυριακή)'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|finalblessing', 'text' : 'Ὁ Ἱερεὺς εὐλογῶν τὸν λαὸν λέγει·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|giveantidoron', 'text' : 'Ὁ Ἱερεὺς διανέμει τὸ Ἀντίδωρον, λέγων ἑνὶ ἑκάστῷ·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|closedoors', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eat', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|allbow', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|drink', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|allbow2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|thirdhour', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|prokimenonmode', 'text' : 'Προκείμενον τοῦ Ἀποστόλου. Ἦχος… . Ψαλμός τῷ Δαβίδ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessreader', 'text' : 'Εὐλόγησον, δέσποτα, τὸν εὐαγγελιστὴν τοῦ ἁγίου ἐνδόξου ἀποστόλου καὶ εὐαγγελιστοῦ (δεῖνος).'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessreader2', 'text' : 'Ὁ Θεὸς διὰ πρεσβειῶν τοῦ ἁγίου ἐνδόξου ἀποστόλου καὶ εὐαγγελιστοῦ (δεῖνος) δῴη σοι ῥῆμα τῷ εὐαγγελιζομένῳ δυνάμει πολλῇ εἰς ἐκπλήωσιν τοῦ Εὐαγγελίου τοῦ ἀγαηπτοῦ Υἱοῦ αὐτοῦ, Κυρίου δὲ ἡμῶν Ἰησοῦ Χριστοῦ.'}
@@ -485,6 +492,10 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|memory', 'text' : 'οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessingmercy', 'text' : 'Εὐλογία Κυρίου καὶ ἔλεος ἔλθοι ἐπὶ σέ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|exclight', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|Key1101b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|remember1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|remember2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|remember3', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|prepcommunion|title', 'text' : 'ΕΥΧΑΙ ΤΗΣ ΜΕΤΑΛΗΨΕΩΣ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|seepage', 'text' : 'Τὰς Εὐχὰς τῆς θείας Κοινωνίας βλ. σελ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|pagenumber', 'text' : ''}
