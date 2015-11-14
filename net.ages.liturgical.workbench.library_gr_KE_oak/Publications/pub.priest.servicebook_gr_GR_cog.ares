@@ -487,6 +487,7 @@ li.rubric.allbow = ""
 li.rubric.drink = ""
 li.rubric.allbow2 = ""
 li.rubric.thirdhour = ""
+li.rubric.allbow3 = ""
 
 // Divine Liturgy
 li.prokimenonmode = "Προκείμενον τοῦ Ἀποστόλου. Ἦχος… . Ψαλμός τῷ Δαβίδ."
