@@ -490,6 +490,7 @@ li.rubric.thirdhour = ""
 li.rubric.allbow3 = ""
 li.rubric.lordsprayer = ""
 li.rubric.bowhead = ""
+li.rubric.wipeparticles2 = ""
 
 // Divine Liturgy
 li.prokimenonmode = "Προκείμενον τοῦ Ἀποστόλου. Ἦχος… . Ψαλμός τῷ Δαβίδ."
@@ -550,6 +551,7 @@ li.rubric.andagain = "Καὶ πάλιν·"
 
 li.vadizo = "Ἰδοὺ βαδίζω πρὸς θείαν Κοινωνίαν Πλαστουργέ, μὴ φλέξῃς με τῇ μετουσίᾳ, Πῦρ γὰρ ὑπάρχεις τοὺς ἀναξίους φλέγον·  Ἀλλ’ οὖν κάθαρον ἐκ πάσης με κηλῖδος."
 li.theurgon = "Θεουργὸν Αἷμα φρίξον, ἄνθρωπε, βλέπων, Ἄνθραξ γὰρ ἐστι τοὺς ἀναξίους φλέγων, Θεοῦ τὸ Σῶμα, καὶ θεοῖ με, καὶ τρέφει, Θεοῖ τὸ πνεῦμα, τὸν δὲ νοῦν τρέφει ξένως."
+li.reception = ""
 
 // Thanksgiving after Communion
 li.thankgsiving.title = "ΕΥΧΑΡΙΣΤΙΑ ΜΕΤΑ ΤΗΝ ΘΕΙΑΝ ΜΕΤΑΛΗΨΙΝ"

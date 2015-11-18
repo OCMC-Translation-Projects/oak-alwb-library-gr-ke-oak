@@ -457,6 +457,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|allbow3', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|lordsprayer', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|bowhead', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|wipeparticles2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|prokimenonmode', 'text' : 'Προκείμενον τοῦ Ἀποστόλου. Ἦχος… . Ψαλμός τῷ Δαβίδ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessreader', 'text' : 'Εὐλόγησον, δέσποτα, τὸν εὐαγγελιστὴν τοῦ ἁγίου ἐνδόξου ἀποστόλου καὶ εὐαγγελιστοῦ (δεῖνος).'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessreader2', 'text' : 'Ὁ Θεὸς διὰ πρεσβειῶν τοῦ ἁγίου ἐνδόξου ἀποστόλου καὶ εὐαγγελιστοῦ (δεῖνος) δῴη σοι ῥῆμα τῷ εὐαγγελιζομένῳ δυνάμει πολλῇ εἰς ἐκπλήωσιν τοῦ Εὐαγγελίου τοῦ ἀγαηπτοῦ Υἱοῦ αὐτοῦ, Κυρίου δὲ ἡμῶν Ἰησοῦ Χριστοῦ.'}
@@ -511,6 +512,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|andagain', 'text' : 'Καὶ πάλιν·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|vadizo', 'text' : 'Ἰδοὺ βαδίζω πρὸς θείαν Κοινωνίαν Πλαστουργέ, μὴ φλέξῃς με τῇ μετουσίᾳ, Πῦρ γὰρ ὑπάρχεις τοὺς ἀναξίους φλέγον·  Ἀλλ’ οὖν κάθαρον ἐκ πάσης με κηλῖδος.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|theurgon', 'text' : 'Θεουργὸν Αἷμα φρίξον, ἄνθρωπε, βλέπων, Ἄνθραξ γὰρ ἐστι τοὺς ἀναξίους φλέγων, Θεοῦ τὸ Σῶμα, καὶ θεοῖ με, καὶ τρέφει, Θεοῖ τὸ πνεῦμα, τὸν δὲ νοῦν τρέφει ξένως.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|reception', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thankgsiving|title', 'text' : 'ΕΥΧΑΡΙΣΤΙΑ ΜΕΤΑ ΤΗΝ ΘΕΙΑΝ ΜΕΤΑΛΗΨΙΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|admonition', 'text' : 'Στίχοι προτρεπτικοί.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|thanksgivingprayers', 'text' : 'Καὶ εὐθὺς τὰς εὐχαριστηρίους εὐχάς·'}
