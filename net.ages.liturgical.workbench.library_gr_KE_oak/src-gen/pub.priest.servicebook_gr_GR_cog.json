@@ -302,6 +302,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|ambonprayer|title', 'text' : 'ΤΗΝ ΟΠΙΣΘΑΜΒΟΝΟΝ ΕΥΧΗΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|end|title', 'text' : 'ΤΕΛΟΣ ΤΗΣ ΘΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|axion|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|finalblessing|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginliturgy', 'text' : 'Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eachpetition', 'text' : 'Μετὰ πᾶσαν δέησιν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|iffeast', 'text' : 'Εἰ μὲν ἐστι Δεσποτικὴ ἢ Θεομητορικὴ ἑορτή, ἢ μεθέορτα, ἢ ἀπόδοσις αὐτῆς, ψάλλονται τὰ Ἀντίφωνα αὐτῆς· εἰ δὲ μή, τὰ Τυπικά.'}

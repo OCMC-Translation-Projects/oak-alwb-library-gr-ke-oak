@@ -333,6 +333,7 @@ li.thanksdismissal.title = "Η ΕΥΧΑΡΙΣΤΗΡΙΟΣ ΕΥΧΗ ΚΑΙ ΑΠΟ
 li.ambonprayer.title = "ΤΗΝ ΟΠΙΣΘΑΜΒΟΝΟΝ ΕΥΧΗΝ"
 li.end.title = "ΤΕΛΟΣ ΤΗΣ ΘΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
 li.axion.title = ""
+li.finalblessing.title = ""
 
 //Divine Liturgy Rubrics
 li.rubric.beginliturgy = "Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ"
