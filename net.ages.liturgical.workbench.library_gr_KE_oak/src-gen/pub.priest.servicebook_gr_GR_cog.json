@@ -218,7 +218,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|pierce2', 'text' : 'Νύττων δὲ ὁ Ἱερεὺς μετὰ τῆς λόγχης ἐν τῷ δεξιῷ μέρει τοῦ ἄρτου, ἀμέσως ὑπὸ τὸ ὄνομα ΙΣ, ἐπιλέγει·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|mixchalice', 'text' : 'Ὁ δὲ Διάκονος ἐγχέει τῷ ἁγίῳ ποτηρίῳ ἐκ τοῦ νάματος ὁμοῦ καὶ τοῦ ὕδατος τὸ ἀρκοῦν, εἰπῶν πρότερον·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|blesswinewater', 'text' : 'Καὶ εὐλογεῖ αὐτὰ ὁ Ἱερεύς, λέγων·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|coverchalice', 'text' : 'Καί, τοῦ Διακόνου θυμιῶντος τὸ δεύτερον κάλυμμα, ὁ Ἱερεύς σκεπάζει τὸ ἅγιον ποτήριον λέγων·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|coverchalice', 'text' : 'Καὶ καλύπται τοῦτο πρὸς στιημὴν δι´ ἑνὸς καλύμματος.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|anotherprosfora', 'text' : 'Καὶ λαβὼν ὁ Ἱερεὺς ἐτέραν προσφοράν, λέγει·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokosparticle', 'text' : 'Καί, αἴρων τὴν μερίδα τῆς Θεοτόκου, τίθησιν αὐτήν ἐν τῷ δεξιῳ μέρει τοῦ ἁγίου ἄρτου, πλησίον τῆς μέσης αὐτοῦ, λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|saintparticles', 'text' : 'Εἶτα, λαβὼν τὴν ἰδίαν ἢ τρίτην προσφοράν, αἴρει ἐξ αὐτῆς ἐννέα μερίδας καὶ τίθησιν αὐτὰς ἐν τῷ ἀριστερῷ μέρει τοῦ ἁγίου ἄρτου, ἤγουν τῷ τῇ δεξιᾲ χειρὶ τοῦ Ἱερέως ὄντι, εἰς τρεῖς τάξεις ἀνὰ τρεῖς μερίδας.'}
@@ -243,7 +243,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|blessincense', 'text' : 'Καὶ ὁ Ἱερεύς, εὐλογῶν, λέγει τὴν εὐχὴν τοῦ θυμιάματος·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|placestar', 'text' : 'Καὶ λαβὼν τὸν ἀστερίσκον ὁ Ιερεύς, θυμιῶντος τοῦ Διακόνου τοῦτον, τίθησιν ἐπάνω τοῦ ἄρτου λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|placeveil', 'text' : 'Καί, τοῦ Διακόνου θυμιῶντος τὸ πρώτον κάλυμμα, ὁ Ἱε­ρεὺς σκεπάζει τὸν ἅγιον ἄρτον ἄνωθεν τοῦ ἀστερίσκου σὺν τῷ δισκαρίῳ λέγων·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|coverchalice', 'text' : 'Καί, τοῦ Διακόνου θυμιῶντος τὸ δεύτερον κάλυμμα, ὁ Ἱερεύς σκεπάζει τὸ ἅγιον ποτήριον λέγων·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|coverchalice2', 'text' : 'Καί, τοῦ Διακόνου θυμιῶντος τὸ δεύτερον κάλυμμα, ὁ Ἱερεύς σκεπάζει τὸ ἅγιον ποτήριον λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|coverboth', 'text' : 'Καί, τοῦ Διακόνου θυμιῶντος τὸ τρίτον κάλυμμα, ἤγουν τὸν ἀέρα, ὁ Ἱερεύς σκεπάζει ἀμφότερα τὰ ἅγια λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|censegifts', 'text' : 'Καὶ ὁ Ἱερεύς, λαβὼν τὸν θυμιατόν, θυμιᾷ τρὶς τὴν πρόθεσιν λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|wellpleasedresponse', 'text' : 'Ὁ Διάκονος ἐν ἑκάστῃ ἐπιλέγει·'}
@@ -256,12 +256,12 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|bowthrice', 'text' : 'Εἶτα, προσκυνοῦντες ἀμφότεροι τρίς, λέγουσι·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kairos', 'text' : 'Καὶ ὁ Διάκονος, ὑποκλίνας τὴν κεφαλὴν λέγει τῷ Ἱερεῖ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|blessdeacon', 'text' : 'Ὁ δὲ Ἱερεύς, ἐπιθεὶς τὴν δεξιὰν χεῖρα ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ σφραγίζων αὐτόν, λέγει·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|venerate', 'text' : 'Εἶτα ἀσπάζονται ὁ μὲν Ἱερεὺς τὸ Εὐαγγέλιον, ὁ δὲ Διά­κονος τὴν ἁγίαν Τράπεζαν καὶ τὴν τοῦ Ἱερέως χεῖρα., καὶ ἐξελθὼν τοῦ Βήματος ἵσταται ἐνώπιον ταῆς Ὡραίας Πύλης καὶ ἐκφωνεῖ·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|liturgybegins', 'text' : 'Καὶ ἄρχεται ἡ θεία Λειτουργία.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|venerate', 'text' : 'Εἶτα ἀσπάζονται ὁ μὲν Ἱερεὺς τὸ Εὐαγγέλιον, ὁ δὲ Διά­κονος τὴν ἁγίαν Τράπεζαν καὶ τὴν τοῦ Ἱερέως χεῖρα, καὶ ἐξελθὼν τοῦ Βήματος ἵσταται ἐνώπιον ταῆς Ὡραίας Πύλης, καὶ ἄρχεται ἡ θεία Λειτουργία.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|ifsunday', 'text' : 'Ὁ β’ χορὸς ἀναστάσιμον τροπάριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|firstmodes', 'text' : 'Εἰς μὲν τοὐς ἤχους α’, β’, γ’ καἰ δ’ τὀ παρόν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|altmodes', 'text' : 'Εἰς δἐ τοὐς ἤχους πλ. α’, πλ. β’, βαρὐν καἰ πλ. δ’ τὀ παρόν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|apolysis', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|liturgy|deacon|start', 'text' : ' Ὁ Διάκονος, λαβὼν εὐλογίαν παρὰ τοῦ Ἱερέως, ἐξέρχεται τοῦ βήματος διὰ τῆς βορείας πύλης καί, ἱστάμενος ἐν τῷ συνήθει αὐτοῦ τόπῳ πρὸ τῆς ῾Ωραίας Πύλης, προσκυνεῖ τρὶς καὶ ἐκφωνεῖ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|liturgy|title', 'text' : 'Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|liturgycatechumens|title', 'text' : 'Η ΛΕΙΤΟΥΡΓΙΑ ΤΩΝ ΚΑΤΗΧΟΥΜΕΝΩΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|litanypeace|title', 'text' : 'ΤΑ ΕΙΡΗΝΙΚΑ'}
@@ -305,6 +305,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|finalblessing|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginliturgy', 'text' : 'Ὁ Ἱερεύς, ὑψῶν τὸ ἅγιον Εὐαγγέλιον καὶ ποιῶν τύπον Σταυροῦ δι’ αὐτοῦ ἐπὶ τοῦ Ἀντιμηνσίου, ἐκφωνεῖ λαμπρᾷ  τῇ  φωνῇ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eachpetition', 'text' : 'Μετὰ πᾶσαν δέησιν.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eachpetition2', 'text' : 'Μετὰ ἑκάστην δέησιν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|iffeast', 'text' : 'Εἰ μὲν ἐστι Δεσποτικὴ ἢ Θεομητορικὴ ἑορτή, ἢ μεθέορτα, ἢ ἀπόδοσις αὐτῆς, ψάλλονται τὰ Ἀντίφωνα αὐτῆς· εἰ δὲ μή, τὰ Τυπικά.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sundayantifon1', 'text' : 'Ἐν δὲ ταῖς Κυριακαῖς νῦν ψάλλεται συνήθως τὸ παρόν·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|verseantifon1', 'text' : 'Ἦχος β’. Ψαλμὸς ρβ’ (102)'}
@@ -330,8 +331,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sundaysofpascha', 'text' : 'Ἀπὸ τῆς Κυριακῆς τοῦ Πάσχα μέχρι τῆς Ἀποδόσεως ψάλλομεν·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kontakion1', 'text' : 'Εἶτα ψάλλεται τὰ Ἀπολυτίκια τῆς ἡμέρας, τοῦ Ναοῦ καὶ μετὰ τὸ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kontakion2', 'text' : 'τὸ Κοντάκιον τῆς Περιόδου ἤ τὴς Ἑορτὴς.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokoskontakion', 'text' : 'Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconkainyn', 'text' : 'Ὁ Διάκονος, ἐλθὼν ἐγγὺς τῆς Ὡραίας Πύλης, λέγει πρὸς τὸν Λαόν·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kontakion3', 'text' : 'Μετὰ τὸ Κοντάκιον, ὁ *Διάκονος·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconkainyn', 'text' : 'Ὁ *Διάκονος, ἐλθὼν ἐγγὺς τῆς Ὡραίας Πύλης, λέγει πρὸς τὸν Λαόν·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|trisagionclergy', 'text' : 'Ὁ τε Ἱερεὺς καὶ ὁ Διάκονος λέγουσιν ἐναλλὰξ τὸ Τρισάγιον, ποιοῦντες ὁμοῦ τρία προσκυνήματα ἔμπροσθεν τῆς ἁγίας Τραπέζης.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|command', 'text' : 'Εἰτα λέγει ὁ Διάκονος πρὸς τὸν Ἱερέα·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|approachthrone', 'text' : 'Καὶ ἀπέρχονται ἐν τῇ Καθέδρᾳ. Ὁ δὲ Ἱερεὺς ἀπερχόμενος λέγει·'}
@@ -349,7 +350,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginlitany', 'text' : 'Εἶτα ὀ Διάκονος, ἐν τῷ συνήθει τόπῳ, ἄρχεται οὕτως τὴν'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|thriceeach', 'text' : '(γ’ μετὰ πάσαν δέησιν)'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|catechumens', 'text' : 'Εἶτα ἄρχεται ὁ *Διάκονος τῆς δεήσεως ὑπὲρ τῶν Κατηχουμένων.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|unfoldantimension', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|catechumens2', 'text' : 'Ὁ Λαός, μετὰ πᾶ­σαν δέησιν·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|unfoldantimension', 'text' : 'Τότε ὁ ἱερεύς απλώνεται τὸ εἰλητόν εἰς τῆς ἁγίας Τραπέζης.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|prayer2faithful', 'text' : 'Καὶ εἰσέρχεται εἰς τὸ Ἱερόν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|cherubic', 'text' : 'Οἱ Ψάλται ἄρχονται ψάλλειν τὸν Χερουβικὸν ὕμνον ἀργῶς καὶ μετὰ μέλους, εἰς τὸν κύριον ἦχον ἡμέρας·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|prayercherubic', 'text' : 'Τούτου δὲ ᾀδομένου, ὁ Ἱερεὺς πρὸ τῆς ἁγίας Τραπέζης ἀναγινώσκει μυστικῶς τὴν'}
@@ -357,7 +359,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|censeatcherubikon', 'text' : 'Εἶτα λαβὼν ὁ Ἱερεύς, ἢ ὁ Διάκονος, τὸ θυμιατήριον, θυμιᾷ κύκλῳ τὴν ἁγίαν Τράπεζαν, τὸ Ἱερατεῖον, τὰς δεσποτικὰς εἰκόνας καὶ τὸν Λαόν, μικρὸν προελθὼν τῶν Βημοθύρων.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|anastasin', 'text' : 'Λέγει δὲ καθ’ ἑαυτόν, εἰ μὲν ἐστι Κυριακή, τὸ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|andpsalmor', 'text' : 'καὶ τὸν Ν' ψαλμὸν, ἐκτὸς τῶν τελευταίων στίχων· εἰ δ’οὐ, λέγει τὸ'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|forgive', 'text' : ' Εἶτα τὸν Ν’ ψαλμόν. Εἶτα εἰσελθὼν ἐν τῷ ἱερῷ ἀποτίθησι τὸ θυμιατήριον. Ἐλθὼν δὲ μετὰ τοῦ Διακόνου πρὸ τῆς ἁγιας Τραπέζης, ποιοῦσι προσκυνήματα τρία, λέγοντες καθ’ ἑαυτούς κατανυκτικὰ τροπάρια, καὶ ἀσπάζονται τὸ Ἀντιμήνσιον καὶ τὴν ἁγίαν Τράπεζαν· αὖθις δὲ προσκυνήσαντες, στρέφονται πρὸς τὸν Λαὸν καὶ ὑποκλίνουσι τὰς κεφαλὰς αὐτῶν, λέγοντες·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|andpsalmor2', 'text' : 'Ἀγάθυνον, Κύριε, ..τὴν Σιών...'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|forgive', 'text' : 'ἐκ γ.' Εἶτα τὸν Ν’ ψαλμόν. Εἶτα εἰσελθὼν ἐν τῷ ἱερῷ ἀποτίθησι τὸ θυμιατήριον. Ἐλθὼν δὲ μετὰ τοῦ Διακόνου πρὸ τῆς ἁγιας Τραπέζης, ποιοῦσι προσκυνήματα τρία, λέγοντες καθ’ ἑαυτούς κατανυκτικὰ τροπάρια, καὶ ἀσπάζονται τὸ Ἀντιμήνσιον καὶ τὴν ἁγίαν Τράπεζαν· αὖθις δὲ προσκυνήσαντες, στρέφονται πρὸς τὸν Λαὸν καὶ ὑποκλίνουσι τὰς κεφαλὰς αὐτῶν, λέγοντες·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|orsimilar', 'text' : 'ἢ παρα­πλήσια.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|approachprothesis', 'text' : 'Ἀπέρχονται εἰς τὴν ἁγίαν Πρόθεσιν, καὶ προσκυνήσαντες ἐκ γ’ ἀσπά­ζονται τὰ κεκαλυμμένα ἅγια δῶρα, λέγοντες ἑκάτερος τό,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|eparon', 'text' : 'Τότε ὁ Διάκονος λέγει πρὸς τὸν Ἱερέα·'}
@@ -377,10 +380,12 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|andsaying', 'text' : 'Καὶ ὁ Διάκονος ἐπειπὼν τὸ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|beginlitanygifts', 'text' : 'καὶ τὴν δεξιὰν τοῦ Ἱερέως ἀσπασάμενος, ἐξελθὼν ἐν τῷ συνήθει τόπῳ καὶ λέγει τὴν '}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|agapwse', 'text' : 'Καὶ ὁ μὲν Ἱερεύς, προσκυνήσας τρίς, ἀσπάζεται τὰ ἅγια οὕτως, ὡς εἰσι κεκαλυμμένα, λέγων μυστικῶς·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kissofpeace', 'text' : 'Ὁμοίως καὶ ὁ Διάκονος συμπροσκυνεῖ, ἐν ᾧ ἵσταται τόπῳ, καὶ ἀσπάζεται τὸ ὠράριον, ἔνθα ἐστὶ Σταυροῦ τύπος. Ἐν δὲ συλλειτούργῳ, διδόασιν οἱ Ἱερεῖς τὸν ἀσπασμὸν τῆς εἰρήνης, ἀσπαζόμενοι ἀλλήλους καὶ λέγοντες διαλογικῶς·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kissofpeace2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kissofpeace', 'text' : 'Ὁμοίως καὶ ὁ Διάκονος συμπροσκυνεῖ, ἐν ᾧ ἵσταται τόπῳ, καὶ ἀσπάζεται τὸ ὠράριον, ἔνθα ἐστὶ Σταυροῦ τύπος. Ἐν δὲ συλλειτούργῳ, διδόασιν οἱ Ἱερεῖς τὸν ἀσπασμὸν τῆς εἰρήνης, λέγοντες ο ανώτερος·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kissofpeace2', 'text' : 'στην οποία ο κατώτερος απαντά:'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconkiss', 'text' : 'Εἰ δὲ πολλοὶ εἰσιν οἱ Διάκονοι, ἀσπάζονται ὁ εἰς τοῦ ἑτέρου τὸ ὠράριον λέγοντες καὶ οὗτοι ὁμοίως.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|waveaer', 'text' : 'Ἐν τούτῳ ὁ Ἱερεύς, ἄρας τὸν Ἀέρα, κινεῖ αὐτὸν ἐπάνω τῶν τιμίων Δώρων. Εἰς τό· Καὶ ἀνελθόντα εἰς τοὺς οὐρανούς…, διπλώσας καὶ ἀσπασαμένος, ἀποτίθησιν αὐτὸν μετὰ τῶν ἑτέρων καλυμμάτων.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|waveaer', 'text' : 'Ἐν τούτῳ ὁ Ἱερεύς, ἄρας τὸν Ἀέρα, κινεῖ αὐτὸν ἐπάνω τῶν τιμίων Δώρων. Εἰς τό· '}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|waveaer2', 'text' : 'Καὶ ἀνελθόντα εἰς τοὺς οὐρανούς…,'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|waveaer3', 'text' : 'διπλώσας καὶ ἀσπασαμένος, ἀποτίθησιν αὐτὸν μετὰ τῶν ἑτέρων καλυμμάτων.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconreturn', 'text' : 'Ὁ Διάκονος εἰσέρχεται εἰς τὸ Ἱερόν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|priestblessing', 'text' : 'Ἱερεύς, εὐλογῶν τὸν Λαόν·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|liftinghands', 'text' : 'Ἱερεύς, ὑψῶν τὰς χεῖρας·'}
@@ -425,7 +430,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconcommune4', 'text' : 'Εἶτα λέγει τῷ Διακόνῳ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconcommune5', 'text' : 'Ὁ δὲ Διάκονος ἀποσπογγίζει μετὰ τῆς μούσης τὴν παλάμην αὐτοῦ ἐπὶ τὸν ἁγὶου Δίσκου μετὰ προσοχῆς, λέγων ἅμα·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|deaconcommune6', 'text' : 'Μεταλαβόντος δὲ τοῦ Διακόνου, λέγει ὁ Ιερεύς·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|nika', 'text' : 'Εἶτα ὁ Διάκονος* μελίζει τὰ τμήματα τοῦ Ἄρτου (ΝΙ καὶ ΚΑ) καὶ ἐμβάλλει τῷ ἁγίῳ Ποτηρίῳ, τὸ σκεπάζει τῷ Καλύμματι, ἐπιτιθεὶς ἐπάνω τὴν Λαβίδα.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|nika', 'text' : 'Εἶτα ὁ Διάκονος μελίζει τὰ τμήματα τοῦ Ἄρτου (ΝΙ καὶ ΚΑ) καὶ ἐμβάλλει τῷ ἁγίῳ Ποτηρίῳ, τὸ σκεπάζει τῷ Καλύμματι.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|approach', 'text' : 'Εἶτα ὁ Διάκονος λαμβάνει τὸ ἅγιον Ποτήριον καὶ ἐξελθὼν εἰς τὴν θύραν καὶ ὑψῶν αὐτό, ἐκφωνεῖ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|distributionprayer', 'text' : 'Ὁ μὲν Διάκονος δίδωσι τὸ ἅγιον Ποτήριον τῷ Ἱερεῖ. Αὐτὸς δὲ μεταδίδωσι τῷ Λαῷ, λέγων ἑκάστῳ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|toudeipnou', 'text' : 'Ἐν δὲ τῷ κοινωνεῖν τοὺς πιστοὺς ψάλλεται ἅπαξ ἢ πλεονάκις, κατὰ τὸν ἀριθμὸν τῶν κοινωνούντων, τὸ παρόν·'}
@@ -434,7 +439,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|blesshand', 'text' : 'Ὁ δὲ Ἱερεὺς εὐλογεῖ τὸν Λαόν, λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|iflordsfeast', 'text' : 'Εἲ ἐστι Δεσποτικὴ Ἑορτή, ἢ Ἀπόδοσις αὐτῆς, ψάλλεται τὸ Ἀπολυτίκιον τῆς Ἑορτῆς.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|paschal', 'text' : 'Κατὰ δὲ τὴν πασχάλιον περίοδον ψάλλεται το· Χριστὸς ανέστη….'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|wipeparticles', 'text' : 'Ἐν τούτῳ ὁ *Διάκονος, κρατῶν τὸν ἅγιον Δίσκον ἐπάνω τοῦ ἁγίου Ποτηρίου, εἰσκομίζει πάσας τὰς μερίδας ἐν τῷ ἁγίῳ Ποτηρίῳ μετὰ πάσης ἀσφαλείας.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|wipeparticles', 'text' : 'Ἐν τούτῳ ὁ Διάκονος, κρατῶν τὸν ἅγιον Δίσκον ἐπάνω τοῦ ἁγίου Ποτηρίου, εἰσκομίζει πάσας τὰς μερίδας ἐν τῷ ἁγίῳ Ποτηρίῳ μετὰ πάσης ἀσφαλείας.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|exaltmaster', 'text' : 'Ὁ Διάκονος λέγει τῷ Ἱερεί·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|censeexalt', 'text' : 'Ὁ δὲ Ἱερεὺς θυμιᾷ τρὶς τὰ Ἅγια, λέγων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|showcoversstar', 'text' : 'Εἶτα ὁ Ἱερεύς, λαβὼν τὸν ἅγιον Δίσκον, τίθησιν ἐπὶ τὴν κεφαλὴν τοῦ Διακόνου. Ὁ δὲ Διάκονος κρατῶν αὐτὸν εὐλαβῶς, καὶ θεωρῶν ἔξω πρὸς τὸν Λαόν, ἀπέρχεται ὄπισθεν τῆς ἁγίας Τραπέζης εἰς τὴν Πρόθεσιν, καὶ ἀποτίθησιν αὐτόν· εἶτα δὲ χαλᾷ τὸ ὠράριον αὐτοῦ.'}
@@ -465,7 +470,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|pet19lash', 'text' : 'Ἔτι δεόμεθα ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν (δεῖνος), καὶ πάσης τῆς ἐν Χριστῷ ἡμῶν ἀδελφότητος.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|pet21lash', 'text' : 'Ἔτι δεόμεθα ὑπὲρ ἐλέους, ζῶης, εἰρήνης, ὑγιείας, σωτηρίας, ἐπισκέψεως, συγχωρήσεως καὶ ἀφέσεως τῶν ἁμαρτιῶν τῶν δούλων τοῦ Θεοῦ, πάντων τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν, τῶν κατοικοῦντων καὶ παρεπιδημούντων ἐν τῇ πόλει ταύτῇ καὶ ἐνορίᾳ ταύτῇ, τῶν ἐπιτρόπων καὶ συνδρομητῶν τῆς ἱερᾶς ἐκκλησίας ταύτης σὺν τοῖς συγγενέσιν αὐτῶν. [Καὶ τῶν δούλων τοῦ Θεοῦ (καὶ μνημονεύει ὧν θέλει ζώντων), καὶ τῶν ἐντειλαμένων ἡμῖν, τοῖς ἀναξίοις, εὔχεσθαι ὑπὲρ αὐτῶν.]'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|pet22lash', 'text' : 'Ἔτι δεόμεθα ὑπὲρ τῶν μακαρίων καὶ ἀοιδίμων κτιτόρων τῆς ἁγίας ἐκκλησίας ταύτης, καὶ ὑπὲρ πάντων καὶ πασῶν τῶν προαναπαυσαμένων ἀδελφῶν ἡμῶν, τῶν ἐνθάδε εὐσεβῶς κειμένων, καὶ ἁπανταχοῦ ὀρθοδόξων. [Καὶ τῶν δούλων τοῦ Θεοῦ (καὶ μνημονεύει ὧν θέλει κεκοιμημένων), καὶ ὑπὲρ τοῦ συγχωρηθῆναι αὐτοῖς πᾶν πλημμέλημα ἑκούσιόν τε καὶ ἀκούσιον.]'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|cherubic2', 'text' : 'Ὡς τὸν Βασιλέα τῶν ὅλων ὑποδεξόμενοι, ταῖς ἀγγελικαῖς ἀοράτως δορυφορούμενον τάξεσιν. Ἀλληλούϊα, Ἀλληλούϊα, Ἀλληλούϊα.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|cherubic2', 'text' : 'Ὡς τὸν Βασιλέα τῶν ὅλων ὑποδεξόμενοι, ταῖς ἀγγελικαῖς ἀοράτως δορυφορούμενον τάξεσιν. Ἀλληλούϊα.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|forgive', 'text' : 'Συγχωρήσατέ με'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|holydiaconate', 'text' : 'Τῆς Ἱερωδιακονίας σου μνησθείη Κύριος ὁ Θεὸς ἐν τῇ Βασιλείᾳ αὐτοῦ, πάντοτε, νῦν καὶ ἀεί, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|noblejoseph', 'text' : 'Ὁ εὐσχήμων Ἰωσὴφ ἀπὸ τοῦ ξύλου καθελὼν τὸ ἄχραντόν σου σῶμα, σινδόνι καθαρᾷ εἰλήσας καὶ ἀρώμασιν, ἐν μνήματι καινῷ κηδεύσας ἀπέθετο.'}
@@ -478,6 +483,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|changebread', 'text' : 'Εὐλόγησον, Δέσποτα, τὸν ἅγιον Ἄρτον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|changewine', 'text' : 'Εὐλόγησον, Δέσποτα, τὸ ἅγιον Ποτήριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessboth', 'text' : 'Εὐλόγησον, Δέσποτα, ἀμφότερα τὰ Ἅγια.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|bless', 'text' : 'Εὐλόγησον, Δέσποτα.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|alleluia', 'text' : 'Ἀλληλούϊα.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|pliroma', 'text' : 'Πλήρωμα Πνεύματος Ἁγίου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|zesis', 'text' : 'Ζέσις Πνεύματος ἁγίου. Ἀμήν.'}
@@ -495,6 +501,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|chrysostom', 'text' : 'τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀριχι­επισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|ofday', 'text' : '(τῆς ἡμέρας),'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|memory', 'text' : 'οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν,'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|dis|memory2', 'text' : 'οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|blessingmercy', 'text' : 'Εὐλογία Κυρίου καὶ ἔλεος ἔλθοι ἐπὶ σέ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|exclight', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|Key1101b', 'text' : ''}
@@ -534,6 +541,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thanksgivingprayer4', 'text' : 'Τὸ Σῶμά σου τὸ ἅγιον, Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, γένοιτό μοι εἰς ζωὴν αἰώνιον, καὶ τὸ Αἷμά σου τὸ τίμιον, εἰς ἄφεσιν ἁμαρτιῶν. Γένοιτο δέ μοι ἡ εὐχαριστία αὕτη εἰς χαράν, ὑγείαν καὶ εὐφροσύνην καὶ ἐν τῇ φοβερᾷ καὶ δευτέρᾳ ἐλεύσει σου ἀξίωσόν με τὸν ἁμαρτωλὸν στῆναι ἐκ δεξιῶν τῆς σῆς δόξης, πρεσβείαις τῆς παναχράντου σου Μητρός, καὶ πάντων σου τῶν Ἁγίων. Ἀμήν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thanksgivingprayer5', 'text' : 'Παναγία Δέσποινα Θεοτόκε, τὸ φῶς τῆς ἐσκοτισμένης μου ψυχῆς, ἡ ἐλπίς, ἡ σκέπη, ἡ καταφυγή, ἡ παραμυθία, τὸ ἀγαλλίαμά μου, εὐχαριστῶ σοι, ὅτι ἠξίωσάς με τὸν ἀνάξιον κοινωνὸν γενέσθαι τοῦ ἀχράντου Σώματος καὶ τοῦ τιμίου Αἵματος τοῦ Υίοῦ σου. Ἀλλ’ ἡ τεκοῦσα τὸ ἀληθινὸν Φῶς, φώτισόν μου τοὺς νοητοὺς ὀφθαλμοὺς τῆς καρδίας· ἡ τὴν πηγὴν τῆς ἀθανασίας κυήσασα, ζωοποίησόν με τὸν τεθανατωμένον τῇ ἁμαρτίᾳ· ἡ τοῦ ἐλεήμονος Θεοῦ φιλεύσπλαγχνος Μήτηρ, ἐλέησόν με, καὶ δὸς κατάνυξιν καὶ συντριβὴν ἐν τῇ καρδίᾳ μου, καὶ ταπείνωσιν ἐν τοῖς διανοήμασί μου, καὶ ἀνάκλησιν ἐν ταῖς αἰχμαλωσίαις τῶν λογισμῶν μου. Καὶ ἀξίωσόν με, μέχρι τελευταίας μου ἀναπνοῆς, ἀκατακρίτως ὑποδέχεσθαι τῶν ἀχράντων Μυστηρίων τὼν ἁγιασμόν, εἰς ἴασιν ψυχῆς τε καὶ σώματος· καὶ παράσχου μοι δάκρυα μετανοίας καὶ ἐξομολογήσεως, εἰς τὸ ὑμνεῖν καὶ δοξάζειν σε πάσας τὰς ἡμέρας τῆς ζωῆς μου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thanksgivingprayer5b', 'text' : 'Ὅτι εὐλογημένη καὶ δεδοξασμένη ὑπάρχεις εἰς τοὺς αἰῶνας. Ἀμήν.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|thanksgivingprayerrubric', 'text' : '(ἐκ τρίτου.)'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|apolytikionchrysostom', 'text' : 'Ἡ τοῦ στόματός σου, καθάπερ πυρσός, ἐκλάμψασα χάρις τὴν οἰκουμένην ἐφώτισεν· ἀφιλαργυρίας τῷ κόσμῳ θησαυροὺς ἐναπέθετο· τὸ ὕψος ἡμῖν τῆς ταπεινοφροσύνης ὑπέδειξεν. Ἀλλὰ σοῖς λόγοις παιδεύων, Πάτερ Ἰωάννη Χρυσόστομε, πρέσβευε τῷ Λόγῳ Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|kontakionchrysostom', 'text' : 'Ἐκ τὼν οὐρανῶν ἐδέξω τὴν θείαν χάριν, καὶ διὰ τῶν σῶν χειλέων πάντας διδάσκεις, προσκυνεῖν ἐν Τριάδι τὸν ἕνα Θεόν, Ἰωάννη Χρυσόστομε, παμμακάριστε, ὅσιε. Ἐπαξίως εὐφημοῦμέν σε· ὑπάρχεις γὰρ καθηγητής, ὡς τὰ θεῖα σαφῶν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|theotokion', 'text' : 'Τῇ πρεσβείᾳ, Κύριε, πάντων τῶν Ἁγίων καὶ τῆς Θεοτόκου, τὴν σῆν εἰρήνην δὸς ἡμῖν καὶ ἐλέησον ἡμᾶς, ὡς μόνος οἰκτίρμων.'}
@@ -613,8 +621,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sept8kontakion', 'text' : 'Τῇ η’ Σεπτεμβρίου. Γενέθλιον τῆς Θεοτόκου, καὶ μὲχρι τῆς Ἀποδόσεως τῇ ιβ’.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sept13kontakion', 'text' : 'Τῇ ιγ’ Σεπτεμβρίου. Τὰ ἐγκαίνια τοῦ ναοῦ τῆς Ἁναστάσεως.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|sept14kontakion', 'text' : 'Τῇ ιδ’ Σεπτεμβρίου. Ἡ παγκόσμιος ὕψωσις τοῦ τιμίου Σταυροῦ, καὶ μέχρι τῆς Ἁποδόσεως τῇ κα’.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|exaltationdismissalkontakion', 'text' : 'Ἀπὸ τῆς Ἀποδόσεως τοῦ Σταυροῦ μὲχρι τῆς ζ’ Νοεμβρίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokoskontakion', 'text' : 'Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|exaltationdismissalkontakion', 'text' : 'Ἀπὸ τῆς Ἀποδόσεως τοῦ Σταυροῦ μὲχρι τῆς ζ’ Νοεμβρίου.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokoskontakion', 'text' : 'Ἂλλως τὸ Κοντάκιον τῆς Θεοτόκους. Ἦχος. β’·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|nov8kontakion', 'text' : 'Ἀπὸ τῆς ηʹ Νοεμβρίου μέχρι τῆς Ἀποδόσεως τῶν Ἐισοδίων τῇ κεʹ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|nov20kontakion', 'text' : 'Τῇ κ’ Νοεμβρίου. Προεόρτια τῶν Εἰσοδίων τῆς Θεοτόκου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|entrancedismissalkontakion', 'text' : 'Ἀπὸ τῆς Ἀποδόσεως τῶν Εἰσοδίων μὲχρι τῆς κδ’ Δεκεμβρίου.'}
@@ -625,14 +633,14 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theophanykontakion', 'text' : 'Τῇ ς’ Ἰανουαρίου. Τὰ ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ μέχρι τῆς Ἁποδόσεως τῇ ιδ’.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|feb1kontakion', 'text' : 'Τῇ α’ Φεβρουαρίου. Προέορτια τῆς Ὑπαπαντῆς.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|dismissaltheophanykontakion', 'text' : 'Ἀπό τῆς ἀποδόσεως τῶν Θεοφανείων μὲχρι τῆς Ἀποδόσεως τῆς Ὑπαπαντῆς.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|dismissalmeetingkontakion', 'text' : 'Μετὰ τὴν ἀπόδοσιν τῆς Ὑπαπαντῆς μέχρι τῆς ἐνάρξεως τοῦ Τριοδίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|dismissalmeetingkontakion', 'text' : 'Μετὰ τὴν ἀπόδοσιν τῆς Ὑπαπαντῆς μέχρι τῆς ἐνάρξεως τοῦ Τριοδίου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|publicanphariseekontakion', 'text' : 'Τῇ Κυριακῇ τοῦ Τελώνου καὶ τοῦ Φαρισαῖου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|prodigalkontakion', 'text' : 'Τῇ Κυριακῇ τοῦ Ἀσώτου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|carnivalsaturdaykontakion', 'text' : 'Τῷ Σαββάτῳ τῆς Ἀπόκρεω (τῶν κεκοιμημένων).'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|carnivalkontakion', 'text' : 'Τῇ Κυριακῇ τῆς Ἀπόκρεω.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|cheesefarekontakion', 'text' : 'Τῇ Κυριακῇ τῆς Τυρινῆς.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|lenttheotokoskontakion', 'text' : 'Ἀπὸ τῆς πρώτης Κυριακῆς τῶν Νηστειῶν μὲχρι τοῦ Σαββάτου τοῦ Ἀκαθίστου.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|lenttheotokoskontakion2', 'text' : 'Τῇ Ε’ Κυριακῇ τῶν Νηστειῶν, ἐὰν παρῆλθεν ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ· ((Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|lenttheotokoskontakion2', 'text' : 'Τῇ Ε’ Κυριακῇ τῶν Νηστειῶν, ἐὰν παρῆλθεν ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|march24kontakion', 'text' : 'Τῇ κδ’ Μαρτίου. Προεόρτια τοῦ Εὐαγγελισμοῦ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|annunciationkontakion', 'text' : 'Τῇ κε’ Μαρτίου. Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|lazaruskontakion', 'text' : 'Τῷ Σαββάτῳ τοῦ ἀγίου καὶ δικαίου Λαζάρου.'}
@@ -643,7 +651,8 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|ascensionkontakion', 'text' : 'Τῇ Πέμπτῃ τῆς Ἀναλήψεως, καὶ μὲχρι τῆς Ἁποδόσεως.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|pentecostkontakion', 'text' : 'Τῇ Κυριακῇ τῆς ἁγίας Πεντηκοστῆς, καὶ μὲχρι τῆς Ἀποδόσεως.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|allsaintskontakion', 'text' : 'Τῇ Κυριακῇ τῶν Ἁγίων Πάντων.'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokoskontakionallsaints', 'text' : 'Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου. (Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|exceptMotherOfGodChurches', 'text' : '(Έν δὲ τοῖς ναοῖς τῆς Θεοτόκου τὸ Κοντάκιον τὸ καθῆκον.)'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|theotokoskontakionallsaints', 'text' : 'Ἀπό τῆς Κυριακῆς τῶν Ἁγιων πάντων, μὲχρι τῆς κς’ Ἱουλίου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|july2kontakion', 'text' : 'Τῇ β’ Ἰουλίου. Ἡ κατάθεσις ταῆς τιμίας ἐσθῆτος τῆς ὑπεραγίας Θεοτόκου.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|july25kontakion', 'text' : 'Τῇ κε’ Ἰουλίου. Ἡ κοίμησις τῆς ἁγίας Ἄννης.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|july27kontakion', 'text' : 'Ἀπό τῆς κζ’ Ἰουλίου μὲχρι τῆς ἀποδόσεως τῆς Μεταμορφώσεως (τῇ ιγ’ Αὐγούστου).'}
@@ -725,7 +734,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|oneperson', 'text' : 'Ὑπὲρ ἑνὸς ἢ μιᾶς·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|manypeople', 'text' : 'Ὑπὲρ πολλῶν κεκοιμημένων·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|dodismissal', 'text' : 'Ὁ Ἱερεὺς ποιεῖ τὴν Ἀπόλυσιν οὕτω·'}
-{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|soulsat', 'text' : 'Τοῖς Σαββάτοις τῶν Ψυχῶν μνημόνευει ὁ *Διάκονος ὡς ἑξής·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|soulsat', 'text' : 'Τοῖς Σαββάτοις τῶν Ψυχῶν μνημόνευει ὁ Διάκονος ὡς ἑξής·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|restasabove', 'text' : 'Καὶ τὰ λοιπά, ὡς ἀνωτέρω.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|funeraltroparion1', 'text' : 'Μετὰ πνευμάτων δικαίων * τετελειωμένων * τὰς ψυχὰς τῶν δούλων σου, * Σῶτερ, ἀνάπαυσον, * φυλάττων αὐτὰς * εἰς τὴν μακαρίαν ζωήν, * τὴν παρὰ σοί, φιλάνθρωπε.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|funeraltroparion2', 'text' : 'Εἰς τὴν κατάπαυσίν σου, * Κύριε, * ὅπου πάντες οἱ Ἅγιοί σου ἀναπαύονται, * ἀνάπαυσον καὶ τὰς ψυχὰς τῶν δούλων) σου, * ὅτι μόνος ὑπάρχεις ἀθάνατος.'}
@@ -779,6 +788,13 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|cense2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|heavenlyking', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|bowthricealtar', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|bracket|open', 'text' : '['}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|bracket|close', 'text' : ']'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|OR', 'text' : 'Ἢ'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|DoxaSoiOTheos2', 'text' : 'Δόξα σοι, ὁ Θεός, ἡ ἐλπὶς ἡμῶν, δόξα σοι.'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|DefteProskinisomen0', 'text' : 'Δεῦτε προσκυνήσωμεν...'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|andpsalmor3', 'text' : 'Εἰ οὔκ ἐστι Κυριακή,'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|html|tab', 'text' : 'ΜΙΚΡΟΝ ΕΥΧΟΛΟΓΙΟΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|header', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|psb|pdf|cover', 'text' : 'Μικρὸν Ευχολογιον Αγιασμα Ταριον'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|StarDeacon', 'text' : '*ΔΙΑΚΟΝΟΣ'}
