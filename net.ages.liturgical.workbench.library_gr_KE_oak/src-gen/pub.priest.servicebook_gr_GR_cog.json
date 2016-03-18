@@ -128,6 +128,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|title', 'text' : 'ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΠΡΟΣΚΟΜΙΔΗΣ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|protheseos|title', 'text' : 'ΤΗΝ ΕΥΧΗΝ ΤΗΣ ΠΡΟΘΕΣΕΩΣ·'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|preliminaries|title', 'text' : 'ΠΡΟΚΑΤΑΡΚΤΙΚΑ ΤΗΣ Θ. ΛΕΙΤΟΥΡΓΙΑΣ'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|initialprayers|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|mercy', 'text' : 'Ὁ Θεός, ἱλάσθητι μοι τῷ ἁμαρτωλῷ.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|mercy2', 'text' : 'Ὁ Θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ καὶ ἐλέησόν με.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|preparation|mnimidikaiou', 'text' : 'Μνήμη δικαίου μέτ’ ἐγκωμίων, σοὶ δὲ ἀρκέσει ἡ μαρτυρία τοῦ Κυρίου Πρόδρομε, ἀνεδείχθης γὰρ ὄντως καὶ Προφητῶν σεβασμιώτερος, ὅτι καὶ ἐν ῥείθροις βαπτίσαι κατηξιώθης τὸν κηρυττόμενον. Ὅθεν τῆς ἀληθείας ὑπεραθλήσας, χαίρων εὐηγγελίσω καὶ τοὶς ἐν ἅδῃ, Θεὸν φανερωθέντα ἐν σαρκί, τὸν αἴροντα τὴν ἁμαρτίαν τοῦ κόσμου, καὶ παρέχοντα ἡμῖν τὸ μέγα ἔλεος.'}
@@ -789,6 +790,10 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|cense2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|heavenlyking', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|bowthricealtar', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|forgivecongregation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|forgivecongregation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|vesting|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|kissaltargospel', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|bracket|open', 'text' : '['}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|bracket|close', 'text' : ']'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|OR', 'text' : 'Ἢ'}

@@ -153,6 +153,7 @@ li.servicebook.title3 = "ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
 li.preparation.title = "ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΠΡΟΣΚΟΜΙΔΗΣ"
 li.preparation.protheseos.title = "ΤΗΝ ΕΥΧΗΝ ΤΗΣ ΠΡΟΘΕΣΕΩΣ·"
 li.preparation.preliminaries.title = "ΠΡΟΚΑΤΑΡΚΤΙΚΑ ΤΗΣ Θ. ΛΕΙΤΟΥΡΓΙΑΣ"
+li.initialprayers.title = ""
 
 // Divine Liturgy Preparation
 li.preparation.mercy = "Ὁ Θεός, ἱλάσθητι μοι τῷ ἁμαρτωλῷ."
@@ -869,6 +870,11 @@ li.rubric.cense = ""
 li.rubric.cense2 = ""
 li.rubric.heavenlyking = ""
 li.rubric.bowthricealtar = ""
+
+li.rubric.forgivecongregation = ""
+li.forgivecongregation = ""
+li.vesting.title = ""
+li.rubric.kissaltargospel = ""
 
 bracket.open = "["
 bracket.close = "]"
