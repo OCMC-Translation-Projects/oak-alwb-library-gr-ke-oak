@@ -262,6 +262,7 @@
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|altmodes', 'text' : 'Εἰς δἐ τοὐς ἤχους πλ. α’, πλ. β’, βαρὐν καἰ πλ. δ’ τὀ παρόν.'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|apolysis', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|liturgy|deacon|start', 'text' : ' Ὁ Διάκονος, λαβὼν εὐλογίαν παρὰ τοῦ Ἱερέως, ἐξέρχεται τοῦ βήματος διὰ τῆς βορείας πύλης καί, ἱστάμενος ἐν τῷ συνήθει αὐτοῦ τόπῳ πρὸ τῆς ῾Ωραίας Πύλης, προσκυνεῖ τρὶς καὶ ἐκφωνεῖ·'}
+{'id_' : 'pub|priest|servicebook_gr_GR_cog|li|rubric|liturgybegins', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|liturgy|title', 'text' : 'Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|liturgycatechumens|title', 'text' : 'Η ΛΕΙΤΟΥΡΓΙΑ ΤΩΝ ΚΑΤΗΧΟΥΜΕΝΩΝ'}
 {'id_' : 'pub|priest|servicebook_gr_GR_cog|li|litanypeace|title', 'text' : 'ΤΑ ΕΙΡΗΝΙΚΑ'}
